@@ -3,7 +3,7 @@
 
 This script creates a network plot with the main players in a given research field (adapted from Olivia Tanuwidjaja's post on [Discovering entity connections insights using Network Analytics][credit]). 
 
-![Research Network - Seizure Forecasting](https://github.com/anascacais/research_network/research_network.png?raw=true)
+![Research Network - Seizure Forecasting](research_network.png)
 
 ### How can I interpret the network?
  - Nodes represent authors;
