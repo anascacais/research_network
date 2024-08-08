@@ -18,1049 +18,984 @@
 16,"('King-Stephens,David', 'Mirro,Emily A.')",1
 17,"('King-Stephens,David', 'Rao,Vikram R.')",2
 18,"('Kleen,Jonathan K.', 'Mirro,Emily A.')",1
-19,"('Kleen,Jonathan K.', 'Rao,Vikram R.')",2
+19,"('Kleen,Jonathan K.', 'Rao,Vikram R.')",1
 20,"('Mirro,Emily A.', 'Rao,Vikram R.')",1
-21,"('Brinkmann,Benjamin H.', 'Gregg,Nicholas M.')",1
-22,"('Brinkmann,Benjamin H.', 'Worrell,Gregory A.')",5
-23,"('Gregg,Nicholas M.', 'Worrell,Gregory A.')",1
-24,"('Bidwell,Jonathan', 'Black,Angela P')",1
-25,"('Bidwell,Jonathan', 'Chiang,Sharon')",1
-26,"('Bidwell,Jonathan', 'Jackson,Michele')",1
-27,"('Bidwell,Jonathan', 'Loddenkemper,Tobias')",1
-28,"('Bidwell,Jonathan', 'Meisel,Christian')",1
-29,"('Bidwell,Jonathan', 'Moss,Chuck')",1
-30,"('Bidwell,Jonathan', 'Moss,Robert E.')",1
-31,"('Black,Angela P', 'Chiang,Sharon')",1
-32,"('Black,Angela P', 'Jackson,Michele')",1
-33,"('Black,Angela P', 'Loddenkemper,Tobias')",1
-34,"('Black,Angela P', 'Meisel,Christian')",1
-35,"('Black,Angela P', 'Moss,Chuck')",1
-36,"('Black,Angela P', 'Moss,Robert E.')",1
-37,"('Chiang,Sharon', 'Jackson,Michele')",1
-38,"('Chiang,Sharon', 'Loddenkemper,Tobias')",1
-39,"('Chiang,Sharon', 'Meisel,Christian')",1
-40,"('Chiang,Sharon', 'Moss,Chuck')",1
-41,"('Chiang,Sharon', 'Moss,Robert E.')",2
-42,"('Jackson,Michele', 'Loddenkemper,Tobias')",1
-43,"('Jackson,Michele', 'Meisel,Christian')",1
-44,"('Jackson,Michele', 'Moss,Chuck')",1
-45,"('Jackson,Michele', 'Moss,Robert E.')",1
-46,"('Loddenkemper,Tobias', 'Meisel,Christian')",1
-47,"('Loddenkemper,Tobias', 'Moss,Chuck')",1
-48,"('Loddenkemper,Tobias', 'Moss,Robert E.')",1
-49,"('Meisel,Christian', 'Moss,Chuck')",1
-50,"('Meisel,Christian', 'Moss,Robert E.')",1
-51,"('Moss,Chuck', 'Moss,Robert E.')",1
-52,"('Chiang,Sharon', 'Gavvala,Jay')",1
-53,"('Chiang,Sharon', 'Goldenholz,Daniel M.')",1
-54,"('Chiang,Sharon', 'Haneef,Zulfi')",1
-55,"('Chiang,Sharon', 'Kleen,Jonathan K.')",1
-56,"('Chiang,Sharon', 'Rao,Vikram R.')",1
-57,"('Chiang,Sharon', 'Stern,John M.')",1
-58,"('Chiang,Sharon', 'Theodore,William H.')",1
-59,"('Chiang,Sharon', 'Vannucci,Marina')",1
-60,"('Gavvala,Jay', 'Goldenholz,Daniel M.')",1
-61,"('Gavvala,Jay', 'Haneef,Zulfi')",1
-62,"('Gavvala,Jay', 'Kleen,Jonathan K.')",1
-63,"('Gavvala,Jay', 'Moss,Robert E.')",1
-64,"('Gavvala,Jay', 'Rao,Vikram R.')",1
-65,"('Gavvala,Jay', 'Stern,John M.')",1
-66,"('Gavvala,Jay', 'Theodore,William H.')",1
-67,"('Gavvala,Jay', 'Vannucci,Marina')",1
-68,"('Goldenholz,Daniel M.', 'Haneef,Zulfi')",1
-69,"('Goldenholz,Daniel M.', 'Kleen,Jonathan K.')",1
-70,"('Goldenholz,Daniel M.', 'Moss,Robert E.')",4
-71,"('Goldenholz,Daniel M.', 'Rao,Vikram R.')",1
-72,"('Goldenholz,Daniel M.', 'Stern,John M.')",1
-73,"('Goldenholz,Daniel M.', 'Theodore,William H.')",3
-74,"('Goldenholz,Daniel M.', 'Vannucci,Marina')",1
-75,"('Haneef,Zulfi', 'Kleen,Jonathan K.')",1
-76,"('Haneef,Zulfi', 'Moss,Robert E.')",1
-77,"('Haneef,Zulfi', 'Rao,Vikram R.')",1
-78,"('Haneef,Zulfi', 'Stern,John M.')",1
-79,"('Haneef,Zulfi', 'Theodore,William H.')",1
-80,"('Haneef,Zulfi', 'Vannucci,Marina')",1
-81,"('Kleen,Jonathan K.', 'Moss,Robert E.')",1
-82,"('Kleen,Jonathan K.', 'Stern,John M.')",1
-83,"('Kleen,Jonathan K.', 'Theodore,William H.')",1
-84,"('Kleen,Jonathan K.', 'Vannucci,Marina')",1
-85,"('Moss,Robert E.', 'Rao,Vikram R.')",1
-86,"('Moss,Robert E.', 'Stern,John M.')",1
-87,"('Moss,Robert E.', 'Theodore,William H.')",3
-88,"('Moss,Robert E.', 'Vannucci,Marina')",1
-89,"('Rao,Vikram R.', 'Stern,John M.')",1
-90,"('Rao,Vikram R.', 'Theodore,William H.')",1
-91,"('Rao,Vikram R.', 'Vannucci,Marina')",1
-92,"('Stern,John M.', 'Theodore,William H.')",1
-93,"('Stern,John M.', 'Vannucci,Marina')",1
-94,"('Theodore,William H.', 'Vannucci,Marina')",1
-95,"('Bernard,Christophe', 'Dumanis,Sonya B.')",1
-96,"('Bernard,Christophe', 'French,Jacqueline A.')",1
-97,"('Bernard,Christophe', 'Fureman,Brandy E.')",1
-98,"('Bernard,Christophe', 'Worrell,Gregory A.')",1
-99,"('Dumanis,Sonya B.', 'French,Jacqueline A.')",1
-100,"('Dumanis,Sonya B.', 'Fureman,Brandy E.')",2
-101,"('Dumanis,Sonya B.', 'Worrell,Gregory A.')",2
-102,"('French,Jacqueline A.', 'Fureman,Brandy E.')",1
-103,"('French,Jacqueline A.', 'Worrell,Gregory A.')",1
-104,"('Fureman,Brandy E.', 'Worrell,Gregory A.')",1
-105,"('Cook,Mark J.', 'Freestone,Dean R.')",8
-106,"('Cook,Mark J.', 'Karoly,Philippa J.')",10
-107,"('Freestone,Dean R.', 'Karoly,Philippa J.')",8
-108,"('Archer,John', 'Berkovic,Samuel F.')",1
-109,"('Archer,John', 'Cook,Mark J.')",1
-110,"('Archer,John', ""D'Souza,Wendyl"")",1
-111,"('Archer,John', 'Fabinyi,Gavin')",1
-112,"('Archer,John', 'Himes,David')",1
-113,"('Archer,John', 'Hosking,Sean')",1
-114,"('Archer,John', 'Leyde,Kent')",1
-115,"('Archer,John', 'Lightfoot,Paul')",1
-116,"('Archer,John', 'Litewka,Lucas')",1
-117,"('Archer,John', 'Morokoff,Andrew')",1
-118,"('Archer,John', 'Murphy,Michael')",1
-119,"('Archer,John', ""O'Brien,Terence J."")",1
-120,"('Archer,John', 'Ruedebusch,Vanessa')",1
-121,"('Archer,John', 'Sheffield,W. Douglas')",1
-122,"('Archer,John', 'Snyder,David')",1
-123,"('Archer,John', 'Yerra,Raju')",1
-124,"('Berkovic,Samuel F.', 'Cook,Mark J.')",1
-125,"('Berkovic,Samuel F.', ""D'Souza,Wendyl"")",1
-126,"('Berkovic,Samuel F.', 'Fabinyi,Gavin')",1
-127,"('Berkovic,Samuel F.', 'Himes,David')",1
-128,"('Berkovic,Samuel F.', 'Hosking,Sean')",1
-129,"('Berkovic,Samuel F.', 'Leyde,Kent')",1
-130,"('Berkovic,Samuel F.', 'Lightfoot,Paul')",1
-131,"('Berkovic,Samuel F.', 'Litewka,Lucas')",1
-132,"('Berkovic,Samuel F.', 'Morokoff,Andrew')",1
-133,"('Berkovic,Samuel F.', 'Murphy,Michael')",1
-134,"('Berkovic,Samuel F.', ""O'Brien,Terence J."")",1
-135,"('Berkovic,Samuel F.', 'Ruedebusch,Vanessa')",1
-136,"('Berkovic,Samuel F.', 'Sheffield,W. Douglas')",1
-137,"('Berkovic,Samuel F.', 'Snyder,David')",1
-138,"('Berkovic,Samuel F.', 'Yerra,Raju')",1
-139,"('Cook,Mark J.', ""D'Souza,Wendyl"")",3
-140,"('Cook,Mark J.', 'Fabinyi,Gavin')",1
-141,"('Cook,Mark J.', 'Himes,David')",1
-142,"('Cook,Mark J.', 'Hosking,Sean')",1
-143,"('Cook,Mark J.', 'Leyde,Kent')",2
-144,"('Cook,Mark J.', 'Lightfoot,Paul')",1
-145,"('Cook,Mark J.', 'Litewka,Lucas')",1
-146,"('Cook,Mark J.', 'Morokoff,Andrew')",1
-147,"('Cook,Mark J.', 'Murphy,Michael')",2
-148,"('Cook,Mark J.', ""O'Brien,Terence J."")",1
-149,"('Cook,Mark J.', 'Ruedebusch,Vanessa')",1
-150,"('Cook,Mark J.', 'Sheffield,W. Douglas')",1
-151,"('Cook,Mark J.', 'Snyder,David')",1
-152,"('Cook,Mark J.', 'Yerra,Raju')",1
-153,"(""D'Souza,Wendyl"", 'Fabinyi,Gavin')",1
-154,"(""D'Souza,Wendyl"", 'Himes,David')",1
-155,"(""D'Souza,Wendyl"", 'Hosking,Sean')",1
-156,"(""D'Souza,Wendyl"", 'Leyde,Kent')",1
-157,"(""D'Souza,Wendyl"", 'Lightfoot,Paul')",1
-158,"(""D'Souza,Wendyl"", 'Litewka,Lucas')",1
-159,"(""D'Souza,Wendyl"", 'Morokoff,Andrew')",1
-160,"(""D'Souza,Wendyl"", 'Murphy,Michael')",2
-161,"(""D'Souza,Wendyl"", ""O'Brien,Terence J."")",1
-162,"(""D'Souza,Wendyl"", 'Ruedebusch,Vanessa')",1
-163,"(""D'Souza,Wendyl"", 'Sheffield,W. Douglas')",1
-164,"(""D'Souza,Wendyl"", 'Snyder,David')",1
-165,"(""D'Souza,Wendyl"", 'Yerra,Raju')",1
-166,"('Fabinyi,Gavin', 'Himes,David')",1
-167,"('Fabinyi,Gavin', 'Hosking,Sean')",1
-168,"('Fabinyi,Gavin', 'Leyde,Kent')",1
-169,"('Fabinyi,Gavin', 'Lightfoot,Paul')",1
-170,"('Fabinyi,Gavin', 'Litewka,Lucas')",1
-171,"('Fabinyi,Gavin', 'Morokoff,Andrew')",1
-172,"('Fabinyi,Gavin', 'Murphy,Michael')",1
-173,"('Fabinyi,Gavin', ""O'Brien,Terence J."")",1
-174,"('Fabinyi,Gavin', 'Ruedebusch,Vanessa')",1
-175,"('Fabinyi,Gavin', 'Sheffield,W. Douglas')",1
-176,"('Fabinyi,Gavin', 'Snyder,David')",1
-177,"('Fabinyi,Gavin', 'Yerra,Raju')",1
-178,"('Himes,David', 'Hosking,Sean')",1
-179,"('Himes,David', 'Leyde,Kent')",1
-180,"('Himes,David', 'Lightfoot,Paul')",1
-181,"('Himes,David', 'Litewka,Lucas')",1
-182,"('Himes,David', 'Morokoff,Andrew')",1
-183,"('Himes,David', 'Murphy,Michael')",1
-184,"('Himes,David', ""O'Brien,Terence J."")",1
-185,"('Himes,David', 'Ruedebusch,Vanessa')",1
-186,"('Himes,David', 'Sheffield,W. Douglas')",1
-187,"('Himes,David', 'Snyder,David')",1
-188,"('Himes,David', 'Yerra,Raju')",1
-189,"('Hosking,Sean', 'Leyde,Kent')",1
-190,"('Hosking,Sean', 'Lightfoot,Paul')",1
-191,"('Hosking,Sean', 'Litewka,Lucas')",1
-192,"('Hosking,Sean', 'Morokoff,Andrew')",1
-193,"('Hosking,Sean', 'Murphy,Michael')",1
-194,"('Hosking,Sean', ""O'Brien,Terence J."")",1
-195,"('Hosking,Sean', 'Ruedebusch,Vanessa')",1
-196,"('Hosking,Sean', 'Sheffield,W. Douglas')",1
-197,"('Hosking,Sean', 'Snyder,David')",1
-198,"('Hosking,Sean', 'Yerra,Raju')",1
-199,"('Leyde,Kent', 'Lightfoot,Paul')",1
-200,"('Leyde,Kent', 'Litewka,Lucas')",1
-201,"('Leyde,Kent', 'Morokoff,Andrew')",1
-202,"('Leyde,Kent', 'Murphy,Michael')",1
-203,"('Leyde,Kent', ""O'Brien,Terence J."")",1
-204,"('Leyde,Kent', 'Ruedebusch,Vanessa')",2
-205,"('Leyde,Kent', 'Sheffield,W. Douglas')",2
-206,"('Leyde,Kent', 'Snyder,David')",1
-207,"('Leyde,Kent', 'Yerra,Raju')",1
-208,"('Lightfoot,Paul', 'Litewka,Lucas')",1
-209,"('Lightfoot,Paul', 'Morokoff,Andrew')",1
-210,"('Lightfoot,Paul', 'Murphy,Michael')",1
-211,"('Lightfoot,Paul', ""O'Brien,Terence J."")",1
-212,"('Lightfoot,Paul', 'Ruedebusch,Vanessa')",1
-213,"('Lightfoot,Paul', 'Sheffield,W. Douglas')",1
-214,"('Lightfoot,Paul', 'Snyder,David')",1
-215,"('Lightfoot,Paul', 'Yerra,Raju')",1
-216,"('Litewka,Lucas', 'Morokoff,Andrew')",1
-217,"('Litewka,Lucas', 'Murphy,Michael')",1
-218,"('Litewka,Lucas', ""O'Brien,Terence J."")",1
-219,"('Litewka,Lucas', 'Ruedebusch,Vanessa')",1
-220,"('Litewka,Lucas', 'Sheffield,W. Douglas')",1
-221,"('Litewka,Lucas', 'Snyder,David')",1
-222,"('Litewka,Lucas', 'Yerra,Raju')",1
-223,"('Morokoff,Andrew', 'Murphy,Michael')",1
-224,"('Morokoff,Andrew', ""O'Brien,Terence J."")",1
-225,"('Morokoff,Andrew', 'Ruedebusch,Vanessa')",1
-226,"('Morokoff,Andrew', 'Sheffield,W. Douglas')",1
-227,"('Morokoff,Andrew', 'Snyder,David')",1
-228,"('Morokoff,Andrew', 'Yerra,Raju')",1
-229,"('Murphy,Michael', ""O'Brien,Terence J."")",1
-230,"('Murphy,Michael', 'Ruedebusch,Vanessa')",1
-231,"('Murphy,Michael', 'Sheffield,W. Douglas')",1
-232,"('Murphy,Michael', 'Snyder,David')",1
-233,"('Murphy,Michael', 'Yerra,Raju')",1
-234,"(""O'Brien,Terence J."", 'Ruedebusch,Vanessa')",1
-235,"(""O'Brien,Terence J."", 'Sheffield,W. Douglas')",1
-236,"(""O'Brien,Terence J."", 'Snyder,David')",1
-237,"(""O'Brien,Terence J."", 'Yerra,Raju')",1
-238,"('Ruedebusch,Vanessa', 'Sheffield,W. Douglas')",2
-239,"('Ruedebusch,Vanessa', 'Snyder,David')",1
-240,"('Ruedebusch,Vanessa', 'Yerra,Raju')",1
-241,"('Sheffield,W. Douglas', 'Snyder,David')",1
-242,"('Sheffield,W. Douglas', 'Yerra,Raju')",1
-243,"('Snyder,David', 'Yerra,Raju')",1
-244,"('Dumanis,Sonya B.', 'Grzeskowiak,Caitlin L. L.')",1
-245,"('Haut,Sheryl R.', 'Shinnar,Shlomo')",1
-246,"('Haut,Sheryl R.', 'Vouyiouklis,Mary')",1
-247,"('Shinnar,Shlomo', 'Vouyiouklis,Mary')",1
-248,"('Borkowski,Thomas', 'Hall,Charles B.')",1
-249,"('Borkowski,Thomas', 'Haut,Sheryl R.')",1
-250,"('Borkowski,Thomas', 'Lipton,Richard B.')",1
-251,"('Borkowski,Thomas', 'Tennen,Howard')",1
-252,"('Hall,Charles B.', 'Haut,Sheryl R.')",2
-253,"('Hall,Charles B.', 'Lipton,Richard B.')",2
-254,"('Hall,Charles B.', 'Tennen,Howard')",1
-255,"('Haut,Sheryl R.', 'Lipton,Richard B.')",3
-256,"('Haut,Sheryl R.', 'Tennen,Howard')",1
-257,"('Lipton,Richard B.', 'Tennen,Howard')",1
-258,"('Hall,Charles B.', 'Masur,Jonathan')",1
-259,"('Haut,Sheryl R.', 'Masur,Jonathan')",1
-260,"('Lipton,Richard B.', 'Masur,Jonathan')",1
-261,"('Hofstra,Wytske AElig', 'de Weerd,Al Wytze')",1
-262,"('Goldenholz,Daniel M.', 'Goldenholz,Shira R.')",2
-263,"('Goldenholz,Daniel M.', 'Romero,Juan')",1
-264,"('Goldenholz,Daniel M.', 'Sun,Haoqi')",1
-265,"('Goldenholz,Daniel M.', 'Westover,Brandon')",1
-266,"('Goldenholz,Shira R.', 'Moss,Robert E.')",2
-267,"('Goldenholz,Shira R.', 'Romero,Juan')",1
-268,"('Goldenholz,Shira R.', 'Sun,Haoqi')",1
-269,"('Goldenholz,Shira R.', 'Westover,Brandon')",1
-270,"('Moss,Robert E.', 'Romero,Juan')",1
-271,"('Moss,Robert E.', 'Sun,Haoqi')",1
-272,"('Moss,Robert E.', 'Westover,Brandon')",1
-273,"('Romero,Juan', 'Sun,Haoqi')",1
-274,"('Romero,Juan', 'Westover,Brandon')",1
-275,"('Sun,Haoqi', 'Westover,Brandon')",1
-276,"('Brinkmann,Benjamin H.', 'Crepeau,Daniel')",1
-277,"('Brinkmann,Benjamin H.', 'Howbert,J. Jeffry')",1
-278,"('Brinkmann,Benjamin H.', 'Leyde,Kent')",1
-279,"('Brinkmann,Benjamin H.', 'Litt,Brian')",1
-280,"('Brinkmann,Benjamin H.', 'Mavoori,Jaideep')",1
-281,"('Brinkmann,Benjamin H.', 'Patterson,Edward E.')",1
-282,"('Brinkmann,Benjamin H.', 'Ruedebusch,Vanessa')",1
-283,"('Brinkmann,Benjamin H.', 'Sheffield,W. Douglas')",1
-284,"('Brinkmann,Benjamin H.', 'Stead,S. Matt')",1
-285,"('Brinkmann,Benjamin H.', 'Sturges,Beverly')",1
-286,"('Brinkmann,Benjamin H.', 'Vasoli,Vincent M.')",1
-287,"('Brinkmann,Benjamin H.', 'Vite,Charles H.')",1
-288,"('Crepeau,Daniel', 'Howbert,J. Jeffry')",1
-289,"('Crepeau,Daniel', 'Leyde,Kent')",1
-290,"('Crepeau,Daniel', 'Litt,Brian')",1
-291,"('Crepeau,Daniel', 'Mavoori,Jaideep')",1
-292,"('Crepeau,Daniel', 'Patterson,Edward E.')",1
-293,"('Crepeau,Daniel', 'Ruedebusch,Vanessa')",1
-294,"('Crepeau,Daniel', 'Sheffield,W. Douglas')",1
-295,"('Crepeau,Daniel', 'Stead,S. Matt')",1
-296,"('Crepeau,Daniel', 'Sturges,Beverly')",1
-297,"('Crepeau,Daniel', 'Vasoli,Vincent M.')",1
-298,"('Crepeau,Daniel', 'Vite,Charles H.')",1
-299,"('Crepeau,Daniel', 'Worrell,Gregory A.')",1
-300,"('Howbert,J. Jeffry', 'Leyde,Kent')",1
-301,"('Howbert,J. Jeffry', 'Litt,Brian')",1
-302,"('Howbert,J. Jeffry', 'Mavoori,Jaideep')",1
-303,"('Howbert,J. Jeffry', 'Patterson,Edward E.')",1
-304,"('Howbert,J. Jeffry', 'Ruedebusch,Vanessa')",1
-305,"('Howbert,J. Jeffry', 'Sheffield,W. Douglas')",1
-306,"('Howbert,J. Jeffry', 'Stead,S. Matt')",1
-307,"('Howbert,J. Jeffry', 'Sturges,Beverly')",1
-308,"('Howbert,J. Jeffry', 'Vasoli,Vincent M.')",1
-309,"('Howbert,J. Jeffry', 'Vite,Charles H.')",1
-310,"('Howbert,J. Jeffry', 'Worrell,Gregory A.')",1
-311,"('Leyde,Kent', 'Litt,Brian')",1
-312,"('Leyde,Kent', 'Mavoori,Jaideep')",1
-313,"('Leyde,Kent', 'Patterson,Edward E.')",1
-314,"('Leyde,Kent', 'Stead,S. Matt')",1
-315,"('Leyde,Kent', 'Sturges,Beverly')",1
-316,"('Leyde,Kent', 'Vasoli,Vincent M.')",1
-317,"('Leyde,Kent', 'Vite,Charles H.')",1
-318,"('Leyde,Kent', 'Worrell,Gregory A.')",1
-319,"('Litt,Brian', 'Mavoori,Jaideep')",1
-320,"('Litt,Brian', 'Patterson,Edward E.')",1
-321,"('Litt,Brian', 'Ruedebusch,Vanessa')",1
-322,"('Litt,Brian', 'Sheffield,W. Douglas')",1
-323,"('Litt,Brian', 'Stead,S. Matt')",1
-324,"('Litt,Brian', 'Sturges,Beverly')",1
-325,"('Litt,Brian', 'Vasoli,Vincent M.')",1
-326,"('Litt,Brian', 'Vite,Charles H.')",1
-327,"('Litt,Brian', 'Worrell,Gregory A.')",1
-328,"('Mavoori,Jaideep', 'Patterson,Edward E.')",1
-329,"('Mavoori,Jaideep', 'Ruedebusch,Vanessa')",1
-330,"('Mavoori,Jaideep', 'Sheffield,W. Douglas')",1
-331,"('Mavoori,Jaideep', 'Stead,S. Matt')",1
-332,"('Mavoori,Jaideep', 'Sturges,Beverly')",1
-333,"('Mavoori,Jaideep', 'Vasoli,Vincent M.')",1
-334,"('Mavoori,Jaideep', 'Vite,Charles H.')",1
-335,"('Mavoori,Jaideep', 'Worrell,Gregory A.')",1
-336,"('Patterson,Edward E.', 'Ruedebusch,Vanessa')",1
-337,"('Patterson,Edward E.', 'Sheffield,W. Douglas')",1
-338,"('Patterson,Edward E.', 'Stead,S. Matt')",1
-339,"('Patterson,Edward E.', 'Sturges,Beverly')",1
-340,"('Patterson,Edward E.', 'Vasoli,Vincent M.')",1
-341,"('Patterson,Edward E.', 'Vite,Charles H.')",1
-342,"('Patterson,Edward E.', 'Worrell,Gregory A.')",1
-343,"('Ruedebusch,Vanessa', 'Stead,S. Matt')",1
-344,"('Ruedebusch,Vanessa', 'Sturges,Beverly')",1
-345,"('Ruedebusch,Vanessa', 'Vasoli,Vincent M.')",1
-346,"('Ruedebusch,Vanessa', 'Vite,Charles H.')",1
-347,"('Ruedebusch,Vanessa', 'Worrell,Gregory A.')",1
-348,"('Sheffield,W. Douglas', 'Stead,S. Matt')",1
-349,"('Sheffield,W. Douglas', 'Sturges,Beverly')",1
-350,"('Sheffield,W. Douglas', 'Vasoli,Vincent M.')",1
-351,"('Sheffield,W. Douglas', 'Vite,Charles H.')",1
-352,"('Sheffield,W. Douglas', 'Worrell,Gregory A.')",1
-353,"('Stead,S. Matt', 'Sturges,Beverly')",1
-354,"('Stead,S. Matt', 'Vasoli,Vincent M.')",1
-355,"('Stead,S. Matt', 'Vite,Charles H.')",1
-356,"('Stead,S. Matt', 'Worrell,Gregory A.')",1
-357,"('Sturges,Beverly', 'Vasoli,Vincent M.')",1
-358,"('Sturges,Beverly', 'Vite,Charles H.')",1
-359,"('Sturges,Beverly', 'Worrell,Gregory A.')",1
-360,"('Vasoli,Vincent M.', 'Vite,Charles H.')",1
-361,"('Vasoli,Vincent M.', 'Worrell,Gregory A.')",1
-362,"('Vite,Charles H.', 'Worrell,Gregory A.')",1
-363,"('Bridges,John F. P.', 'Dumanis,Sonya B.')",1
-364,"('Bridges,John F. P.', 'Fureman,Brandy E.')",1
-365,"('Bridges,John F. P.', 'Huwig,Tanya')",1
-366,"('Bridges,John F. P.', 'Hyman,Sarah')",1
-367,"('Bridges,John F. P.', 'Janse,Sarah A.')",1
-368,"('Dumanis,Sonya B.', 'Huwig,Tanya')",1
-369,"('Dumanis,Sonya B.', 'Hyman,Sarah')",1
-370,"('Dumanis,Sonya B.', 'Janse,Sarah A.')",1
-371,"('Fureman,Brandy E.', 'Huwig,Tanya')",1
-372,"('Fureman,Brandy E.', 'Hyman,Sarah')",1
-373,"('Fureman,Brandy E.', 'Janse,Sarah A.')",1
-374,"('Huwig,Tanya', 'Hyman,Sarah')",1
-375,"('Huwig,Tanya', 'Janse,Sarah A.')",1
-376,"('Hyman,Sarah', 'Janse,Sarah A.')",1
-377,"('Altenmuller,D. -M.', 'Brandt,A.')",1
-378,"('Altenmuller,D. -M.', 'Feldwisch-Drentrup,Hinnerk')",1
-379,"('Altenmuller,D. -M.', 'Jachan,M.')",1
-380,"('Altenmuller,D. -M.', 'Posdziech,F.')",1
-381,"('Altenmuller,D. -M.', 'Schelter,Bjorn')",1
-382,"('Altenmuller,D. -M.', 'Schulze-Bonhage,Andreas')",1
-383,"('Altenmuller,D. -M.', 'Timmer,Jens')",1
-384,"('Brandt,A.', 'Feldwisch-Drentrup,Hinnerk')",1
-385,"('Brandt,A.', 'Jachan,M.')",1
-386,"('Brandt,A.', 'Posdziech,F.')",1
-387,"('Brandt,A.', 'Schelter,Bjorn')",1
-388,"('Brandt,A.', 'Schulze-Bonhage,Andreas')",1
-389,"('Brandt,A.', 'Timmer,Jens')",1
-390,"('Feldwisch-Drentrup,Hinnerk', 'Jachan,M.')",1
-391,"('Feldwisch-Drentrup,Hinnerk', 'Posdziech,F.')",1
-392,"('Feldwisch-Drentrup,Hinnerk', 'Schelter,Bjorn')",2
-393,"('Feldwisch-Drentrup,Hinnerk', 'Schulze-Bonhage,Andreas')",2
-394,"('Feldwisch-Drentrup,Hinnerk', 'Timmer,Jens')",2
-395,"('Jachan,M.', 'Posdziech,F.')",1
-396,"('Jachan,M.', 'Schelter,Bjorn')",1
-397,"('Jachan,M.', 'Schulze-Bonhage,Andreas')",1
-398,"('Jachan,M.', 'Timmer,Jens')",1
-399,"('Posdziech,F.', 'Schelter,Bjorn')",1
-400,"('Posdziech,F.', 'Schulze-Bonhage,Andreas')",1
-401,"('Posdziech,F.', 'Timmer,Jens')",1
-402,"('Schelter,Bjorn', 'Schulze-Bonhage,Andreas')",2
-403,"('Schelter,Bjorn', 'Timmer,Jens')",2
-404,"('Schulze-Bonhage,Andreas', 'Timmer,Jens')",2
-405,"('Cook,Mark J.', 'Grayden,David B.')",7
-406,"('Cook,Mark J.', 'Kuhlmann,Levin')",3
-407,"('Cook,Mark J.', 'Ung,Hoameng')",1
-408,"('Freestone,Dean R.', 'Grayden,David B.')",6
-409,"('Freestone,Dean R.', 'Kuhlmann,Levin')",3
-410,"('Freestone,Dean R.', 'Leyde,Kent')",1
-411,"('Freestone,Dean R.', 'Ung,Hoameng')",1
-412,"('Grayden,David B.', 'Karoly,Philippa J.')",7
-413,"('Grayden,David B.', 'Kuhlmann,Levin')",3
-414,"('Grayden,David B.', 'Leyde,Kent')",1
-415,"('Grayden,David B.', 'Ung,Hoameng')",1
-416,"('Karoly,Philippa J.', 'Kuhlmann,Levin')",3
-417,"('Karoly,Philippa J.', 'Leyde,Kent')",1
-418,"('Karoly,Philippa J.', 'Ung,Hoameng')",1
-419,"('Kuhlmann,Levin', 'Leyde,Kent')",1
-420,"('Kuhlmann,Levin', 'Ung,Hoameng')",1
-421,"('Leyde,Kent', 'Ung,Hoameng')",1
-422,"('Brinkmann,Benjamin H.', 'Cook,Mark J.')",4
-423,"('Brinkmann,Benjamin H.', 'Dumanis,Sonya B.')",2
-424,"('Brinkmann,Benjamin H.', 'Freestone,Dean R.')",4
-425,"('Brinkmann,Benjamin H.', 'Grayden,David B.')",3
-426,"('Brinkmann,Benjamin H.', 'Karoly,Philippa J.')",4
-427,"('Brinkmann,Benjamin H.', 'Kuhlmann,Levin')",1
-428,"('Brinkmann,Benjamin H.', 'Maturana,Matias I.')",1
-429,"('Brinkmann,Benjamin H.', 'Nurse,Ewan S.')",4
-430,"('Brinkmann,Benjamin H.', 'Payne,Daniel E.')",2
-431,"('Brinkmann,Benjamin H.', 'Richardson,Mark P.')",4
-432,"('Brinkmann,Benjamin H.', 'Schulze-Bonhage,Andreas')",1
-433,"('Cook,Mark J.', 'Dumanis,Sonya B.')",2
-434,"('Cook,Mark J.', 'Maturana,Matias I.')",1
-435,"('Cook,Mark J.', 'Nurse,Ewan S.')",5
-436,"('Cook,Mark J.', 'Payne,Daniel E.')",3
-437,"('Cook,Mark J.', 'Richardson,Mark P.')",4
-438,"('Cook,Mark J.', 'Schulze-Bonhage,Andreas')",1
-439,"('Cook,Mark J.', 'Worrell,Gregory A.')",2
-440,"('Dumanis,Sonya B.', 'Freestone,Dean R.')",2
-441,"('Dumanis,Sonya B.', 'Grayden,David B.')",1
-442,"('Dumanis,Sonya B.', 'Karoly,Philippa J.')",2
-443,"('Dumanis,Sonya B.', 'Kuhlmann,Levin')",1
-444,"('Dumanis,Sonya B.', 'Maturana,Matias I.')",1
-445,"('Dumanis,Sonya B.', 'Nurse,Ewan S.')",2
-446,"('Dumanis,Sonya B.', 'Payne,Daniel E.')",1
-447,"('Dumanis,Sonya B.', 'Richardson,Mark P.')",2
-448,"('Dumanis,Sonya B.', 'Schulze-Bonhage,Andreas')",1
-449,"('Freestone,Dean R.', 'Maturana,Matias I.')",1
-450,"('Freestone,Dean R.', 'Nurse,Ewan S.')",4
-451,"('Freestone,Dean R.', 'Payne,Daniel E.')",3
-452,"('Freestone,Dean R.', 'Richardson,Mark P.')",4
-453,"('Freestone,Dean R.', 'Schulze-Bonhage,Andreas')",1
-454,"('Freestone,Dean R.', 'Worrell,Gregory A.')",2
-455,"('Grayden,David B.', 'Maturana,Matias I.')",1
-456,"('Grayden,David B.', 'Nurse,Ewan S.')",3
-457,"('Grayden,David B.', 'Payne,Daniel E.')",3
-458,"('Grayden,David B.', 'Richardson,Mark P.')",3
-459,"('Grayden,David B.', 'Schulze-Bonhage,Andreas')",1
-460,"('Grayden,David B.', 'Worrell,Gregory A.')",2
-461,"('Karoly,Philippa J.', 'Maturana,Matias I.')",1
-462,"('Karoly,Philippa J.', 'Nurse,Ewan S.')",4
-463,"('Karoly,Philippa J.', 'Payne,Daniel E.')",3
-464,"('Karoly,Philippa J.', 'Richardson,Mark P.')",4
-465,"('Karoly,Philippa J.', 'Schulze-Bonhage,Andreas')",1
-466,"('Karoly,Philippa J.', 'Worrell,Gregory A.')",2
-467,"('Kuhlmann,Levin', 'Maturana,Matias I.')",1
-468,"('Kuhlmann,Levin', 'Nurse,Ewan S.')",1
-469,"('Kuhlmann,Levin', 'Payne,Daniel E.')",2
-470,"('Kuhlmann,Levin', 'Richardson,Mark P.')",1
-471,"('Kuhlmann,Levin', 'Schulze-Bonhage,Andreas')",1
-472,"('Kuhlmann,Levin', 'Worrell,Gregory A.')",2
-473,"('Maturana,Matias I.', 'Nurse,Ewan S.')",1
-474,"('Maturana,Matias I.', 'Payne,Daniel E.')",1
-475,"('Maturana,Matias I.', 'Richardson,Mark P.')",1
-476,"('Maturana,Matias I.', 'Schulze-Bonhage,Andreas')",1
-477,"('Maturana,Matias I.', 'Worrell,Gregory A.')",1
-478,"('Nurse,Ewan S.', 'Payne,Daniel E.')",2
-479,"('Nurse,Ewan S.', 'Richardson,Mark P.')",4
-480,"('Nurse,Ewan S.', 'Schulze-Bonhage,Andreas')",1
-481,"('Nurse,Ewan S.', 'Worrell,Gregory A.')",1
-482,"('Payne,Daniel E.', 'Richardson,Mark P.')",2
-483,"('Payne,Daniel E.', 'Schulze-Bonhage,Andreas')",1
-484,"('Payne,Daniel E.', 'Worrell,Gregory A.')",2
-485,"('Richardson,Mark P.', 'Schulze-Bonhage,Andreas')",1
-486,"('Richardson,Mark P.', 'Worrell,Gregory A.')",1
-487,"('Schulze-Bonhage,Andreas', 'Worrell,Gregory A.')",1
-488,"('Cook,Mark J.', 'Goldenholz,Daniel M.')",2
-489,"('Cook,Mark J.', 'Moss,Robert E.')",2
-490,"('Cook,Mark J.', 'Theodore,William H.')",2
-491,"('Freestone,Dean R.', 'Goldenholz,Daniel M.')",1
-492,"('Freestone,Dean R.', 'Moss,Robert E.')",1
-493,"('Freestone,Dean R.', 'Theodore,William H.')",1
-494,"('Goldenholz,Daniel M.', 'Grayden,David B.')",1
-495,"('Goldenholz,Daniel M.', 'Karoly,Philippa J.')",2
-496,"('Grayden,David B.', 'Moss,Robert E.')",1
-497,"('Grayden,David B.', 'Theodore,William H.')",1
-498,"('Karoly,Philippa J.', 'Moss,Robert E.')",2
-499,"('Karoly,Philippa J.', 'Theodore,William H.')",2
-500,"('Brinkmann,Benjamin H.', 'Eden,Dominique')",1
-501,"('Brinkmann,Benjamin H.', 'Taylor,Janelle')",1
-502,"('Cook,Mark J.', 'Eden,Dominique')",1
-503,"('Cook,Mark J.', 'Taylor,Janelle')",1
-504,"('Dumanis,Sonya B.', 'Eden,Dominique')",1
-505,"('Dumanis,Sonya B.', 'Taylor,Janelle')",1
-506,"('Eden,Dominique', 'Freestone,Dean R.')",1
-507,"('Eden,Dominique', 'Karoly,Philippa J.')",1
-508,"('Eden,Dominique', 'Nurse,Ewan S.')",1
-509,"('Eden,Dominique', 'Richardson,Mark P.')",1
-510,"('Eden,Dominique', 'Taylor,Janelle')",1
-511,"('Freestone,Dean R.', 'Taylor,Janelle')",1
-512,"('Karoly,Philippa J.', 'Taylor,Janelle')",1
-513,"('Nurse,Ewan S.', 'Taylor,Janelle')",1
-514,"('Richardson,Mark P.', 'Taylor,Janelle')",1
-515,"('Cook,Mark J.', 'Dell,Katrina L.')",1
-516,"('Cook,Mark J.', 'Gerla,Vaclav')",1
-517,"('Cook,Mark J.', 'Kremen,Vaclav')",1
-518,"('Dell,Katrina L.', 'Freestone,Dean R.')",1
-519,"('Dell,Katrina L.', 'Gerla,Vaclav')",1
-520,"('Dell,Katrina L.', 'Grayden,David B.')",1
-521,"('Dell,Katrina L.', 'Karoly,Philippa J.')",1
-522,"('Dell,Katrina L.', 'Kremen,Vaclav')",1
-523,"('Dell,Katrina L.', 'Kuhlmann,Levin')",1
-524,"('Dell,Katrina L.', 'Payne,Daniel E.')",1
-525,"('Dell,Katrina L.', 'Worrell,Gregory A.')",1
-526,"('Freestone,Dean R.', 'Gerla,Vaclav')",1
-527,"('Freestone,Dean R.', 'Kremen,Vaclav')",1
-528,"('Gerla,Vaclav', 'Grayden,David B.')",1
-529,"('Gerla,Vaclav', 'Karoly,Philippa J.')",1
-530,"('Gerla,Vaclav', 'Kremen,Vaclav')",1
-531,"('Gerla,Vaclav', 'Kuhlmann,Levin')",1
-532,"('Gerla,Vaclav', 'Payne,Daniel E.')",1
-533,"('Gerla,Vaclav', 'Worrell,Gregory A.')",1
-534,"('Grayden,David B.', 'Kremen,Vaclav')",1
-535,"('Karoly,Philippa J.', 'Kremen,Vaclav')",1
-536,"('Kremen,Vaclav', 'Kuhlmann,Levin')",1
-537,"('Kremen,Vaclav', 'Payne,Daniel E.')",1
-538,"('Kremen,Vaclav', 'Worrell,Gregory A.')",2
-539,"('Brinkmann,Benjamin H.', 'Cimbalnik,Jan')",1
-540,"('Brinkmann,Benjamin H.', 'Guragain,Hari')",1
-541,"('Brinkmann,Benjamin H.', 'Klimes,Petr')",1
-542,"('Brinkmann,Benjamin H.', 'Kremen,Vaclav')",1
-543,"('Brinkmann,Benjamin H.', 'Nasseri,Mona')",1
-544,"('Brinkmann,Benjamin H.', 'Nejedly,Petr')",1
-545,"('Brinkmann,Benjamin H.', 'Sladky,Vladimir')",1
-546,"('Brinkmann,Benjamin H.', 'Varatharajah,Yogatheesan')",2
-547,"('Cimbalnik,Jan', 'Guragain,Hari')",1
-548,"('Cimbalnik,Jan', 'Klimes,Petr')",1
-549,"('Cimbalnik,Jan', 'Kremen,Vaclav')",1
-550,"('Cimbalnik,Jan', 'Nasseri,Mona')",1
-551,"('Cimbalnik,Jan', 'Nejedly,Petr')",1
-552,"('Cimbalnik,Jan', 'Sladky,Vladimir')",1
-553,"('Cimbalnik,Jan', 'Varatharajah,Yogatheesan')",1
-554,"('Cimbalnik,Jan', 'Worrell,Gregory A.')",1
-555,"('Guragain,Hari', 'Klimes,Petr')",1
-556,"('Guragain,Hari', 'Kremen,Vaclav')",1
-557,"('Guragain,Hari', 'Nasseri,Mona')",1
-558,"('Guragain,Hari', 'Nejedly,Petr')",1
-559,"('Guragain,Hari', 'Sladky,Vladimir')",1
-560,"('Guragain,Hari', 'Varatharajah,Yogatheesan')",1
-561,"('Guragain,Hari', 'Worrell,Gregory A.')",1
-562,"('Klimes,Petr', 'Kremen,Vaclav')",1
-563,"('Klimes,Petr', 'Nasseri,Mona')",1
-564,"('Klimes,Petr', 'Nejedly,Petr')",1
-565,"('Klimes,Petr', 'Sladky,Vladimir')",1
-566,"('Klimes,Petr', 'Varatharajah,Yogatheesan')",1
-567,"('Klimes,Petr', 'Worrell,Gregory A.')",1
-568,"('Kremen,Vaclav', 'Nasseri,Mona')",1
-569,"('Kremen,Vaclav', 'Nejedly,Petr')",1
-570,"('Kremen,Vaclav', 'Sladky,Vladimir')",1
-571,"('Kremen,Vaclav', 'Varatharajah,Yogatheesan')",1
-572,"('Nasseri,Mona', 'Nejedly,Petr')",1
-573,"('Nasseri,Mona', 'Sladky,Vladimir')",1
-574,"('Nasseri,Mona', 'Varatharajah,Yogatheesan')",1
-575,"('Nasseri,Mona', 'Worrell,Gregory A.')",1
-576,"('Nejedly,Petr', 'Sladky,Vladimir')",1
-577,"('Nejedly,Petr', 'Varatharajah,Yogatheesan')",1
-578,"('Nejedly,Petr', 'Worrell,Gregory A.')",1
-579,"('Sladky,Vladimir', 'Varatharajah,Yogatheesan')",1
-580,"('Sladky,Vladimir', 'Worrell,Gregory A.')",1
-581,"('Varatharajah,Yogatheesan', 'Worrell,Gregory A.')",2
-582,"('Kockler,Michael', 'Rakers,Florian')",1
-583,"('Kockler,Michael', 'Rasche,Marius')",1
-584,"('Kockler,Michael', 'Rupprecht,Sven')",1
-585,"('Kockler,Michael', 'Schiffner,Rene')",1
-586,"('Kockler,Michael', 'Schlattmann,Peter')",1
-587,"('Kockler,Michael', 'Schwab,Matthias')",1
-588,"('Kockler,Michael', 'Walther,Mario')",1
-589,"('Kockler,Michael', 'Witte,Otto W.')",1
-590,"('Rakers,Florian', 'Rasche,Marius')",1
-591,"('Rakers,Florian', 'Rupprecht,Sven')",1
-592,"('Rakers,Florian', 'Schiffner,Rene')",1
-593,"('Rakers,Florian', 'Schlattmann,Peter')",1
-594,"('Rakers,Florian', 'Schwab,Matthias')",1
-595,"('Rakers,Florian', 'Walther,Mario')",1
-596,"('Rakers,Florian', 'Witte,Otto W.')",1
-597,"('Rasche,Marius', 'Rupprecht,Sven')",1
-598,"('Rasche,Marius', 'Schiffner,Rene')",1
-599,"('Rasche,Marius', 'Schlattmann,Peter')",1
-600,"('Rasche,Marius', 'Schwab,Matthias')",1
-601,"('Rasche,Marius', 'Walther,Mario')",1
-602,"('Rasche,Marius', 'Witte,Otto W.')",1
-603,"('Rupprecht,Sven', 'Schiffner,Rene')",1
-604,"('Rupprecht,Sven', 'Schlattmann,Peter')",1
-605,"('Rupprecht,Sven', 'Schwab,Matthias')",1
-606,"('Rupprecht,Sven', 'Walther,Mario')",1
-607,"('Rupprecht,Sven', 'Witte,Otto W.')",1
-608,"('Schiffner,Rene', 'Schlattmann,Peter')",1
-609,"('Schiffner,Rene', 'Schwab,Matthias')",1
-610,"('Schiffner,Rene', 'Walther,Mario')",1
-611,"('Schiffner,Rene', 'Witte,Otto W.')",1
-612,"('Schlattmann,Peter', 'Schwab,Matthias')",1
-613,"('Schlattmann,Peter', 'Walther,Mario')",1
-614,"('Schlattmann,Peter', 'Witte,Otto W.')",1
-615,"('Schwab,Matthias', 'Walther,Mario')",1
-616,"('Schwab,Matthias', 'Witte,Otto W.')",1
-617,"('Walther,Mario', 'Witte,Otto W.')",1
-618,"('Feldwisch-Drentrup,Hinnerk', 'Ihle,Matthias')",1
-619,"('Ihle,Matthias', 'Schelter,Bjorn')",1
-620,"('Ihle,Matthias', 'Schulze-Bonhage,Andreas')",2
-621,"('Ihle,Matthias', 'Timmer,Jens')",1
-622,"('Carius,Astrid', 'Ihle,Matthias')",1
-623,"('Carius,Astrid', 'Sales,Francisco')",1
-624,"('Carius,Astrid', 'Schelle,Annette')",1
-625,"('Carius,Astrid', 'Schulze-Bonhage,Andreas')",1
-626,"('Carius,Astrid', 'Teotonio,Rute')",1
-627,"('Carius,Astrid', 'Wagner,Kathrin')",1
-628,"('Ihle,Matthias', 'Sales,Francisco')",1
-629,"('Ihle,Matthias', 'Schelle,Annette')",1
-630,"('Ihle,Matthias', 'Teotonio,Rute')",1
-631,"('Ihle,Matthias', 'Wagner,Kathrin')",1
-632,"('Sales,Francisco', 'Schelle,Annette')",1
-633,"('Sales,Francisco', 'Schulze-Bonhage,Andreas')",1
-634,"('Sales,Francisco', 'Teotonio,Rute')",1
-635,"('Sales,Francisco', 'Wagner,Kathrin')",1
-636,"('Schelle,Annette', 'Schulze-Bonhage,Andreas')",1
-637,"('Schelle,Annette', 'Teotonio,Rute')",1
-638,"('Schelle,Annette', 'Wagner,Kathrin')",1
-639,"('Schulze-Bonhage,Andreas', 'Teotonio,Rute')",1
-640,"('Schulze-Bonhage,Andreas', 'Wagner,Kathrin')",1
-641,"('Teotonio,Rute', 'Wagner,Kathrin')",1
-642,"('Martins da Silva,Antonio', 'Sammaritano,Michele')",1
-643,"('Martins da Silva,Antonio', 'Shouse,Margaret N.')",1
-644,"('Sammaritano,Michele', 'Shouse,Margaret N.')",1
-645,"('Baud,Maxime O.', 'Leguia,Marc G')",1
-646,"('Baud,Maxime O.', 'Proix,Timothee')",2
-647,"('Baud,Maxime O.', 'Tcheng,Thomas K')",1
-648,"('Baud,Maxime O.', 'Truccolo,Wilson')",1
-649,"('King-Stephens,David', 'Leguia,Marc G')",1
-650,"('King-Stephens,David', 'Proix,Timothee')",1
-651,"('King-Stephens,David', 'Tcheng,Thomas K')",1
-652,"('King-Stephens,David', 'Truccolo,Wilson')",1
-653,"('Leguia,Marc G', 'Proix,Timothee')",1
-654,"('Leguia,Marc G', 'Rao,Vikram R.')",1
-655,"('Leguia,Marc G', 'Tcheng,Thomas K')",1
-656,"('Leguia,Marc G', 'Truccolo,Wilson')",1
-657,"('Proix,Timothee', 'Rao,Vikram R.')",2
-658,"('Proix,Timothee', 'Tcheng,Thomas K')",1
-659,"('Proix,Timothee', 'Truccolo,Wilson')",1
-660,"('Rao,Vikram R.', 'Tcheng,Thomas K')",1
-661,"('Rao,Vikram R.', 'Truccolo,Wilson')",1
-662,"('Tcheng,Thomas K', 'Truccolo,Wilson')",1
-663,"('Cook,Mark J.', 'Stirling,Rachel E.')",3
-664,"('Grayden,David B.', 'Stirling,Rachel E.')",3
-665,"('Karoly,Philippa J.', 'Stirling,Rachel E.')",3
-666,"('Brinkmann,Benjamin H.', 'Bulluss,K. J.')",1
-667,"('Brinkmann,Benjamin H.', 'Cameron,T. L.')",1
-668,"('Brinkmann,Benjamin H.', ""D'Souza,Wendyl"")",2
-669,"('Brinkmann,Benjamin H.', 'Heasman,J.')",1
-670,"('Brinkmann,Benjamin H.', 'Hoare,R. J.')",1
-671,"('Brinkmann,Benjamin H.', 'Lai,A.')",1
-672,"('Brinkmann,Benjamin H.', 'McCutcheon,K.')",1
-673,"('Brinkmann,Benjamin H.', 'McLean,K. J.')",1
-674,"('Brinkmann,Benjamin H.', 'Murphy,Michael')",1
-675,"('Brinkmann,Benjamin H.', 'Mutarana,M. I.')",1
-676,"('Brinkmann,Benjamin H.', 'Ringo,S. G.')",1
-677,"('Brinkmann,Benjamin H.', 'Seiderer,L.')",1
-678,"('Brinkmann,Benjamin H.', 'Seneviratne,U.')",1
-679,"('Brinkmann,Benjamin H.', 'Stirling,Rachel E.')",2
-680,"('Bulluss,K. J.', 'Cameron,T. L.')",1
-681,"('Bulluss,K. J.', 'Cook,Mark J.')",1
-682,"('Bulluss,K. J.', ""D'Souza,Wendyl"")",1
-683,"('Bulluss,K. J.', 'Freestone,Dean R.')",1
-684,"('Bulluss,K. J.', 'Grayden,David B.')",1
-685,"('Bulluss,K. J.', 'Heasman,J.')",1
-686,"('Bulluss,K. J.', 'Hoare,R. J.')",1
-687,"('Bulluss,K. J.', 'Karoly,Philippa J.')",1
-688,"('Bulluss,K. J.', 'Lai,A.')",1
-689,"('Bulluss,K. J.', 'McCutcheon,K.')",1
-690,"('Bulluss,K. J.', 'McLean,K. J.')",1
-691,"('Bulluss,K. J.', 'Murphy,Michael')",1
-692,"('Bulluss,K. J.', 'Mutarana,M. I.')",1
-693,"('Bulluss,K. J.', 'Nurse,Ewan S.')",1
-694,"('Bulluss,K. J.', 'Richardson,Mark P.')",1
-695,"('Bulluss,K. J.', 'Ringo,S. G.')",1
-696,"('Bulluss,K. J.', 'Seiderer,L.')",1
-697,"('Bulluss,K. J.', 'Seneviratne,U.')",1
-698,"('Bulluss,K. J.', 'Stirling,Rachel E.')",1
-699,"('Cameron,T. L.', 'Cook,Mark J.')",1
-700,"('Cameron,T. L.', ""D'Souza,Wendyl"")",1
-701,"('Cameron,T. L.', 'Freestone,Dean R.')",1
-702,"('Cameron,T. L.', 'Grayden,David B.')",1
-703,"('Cameron,T. L.', 'Heasman,J.')",1
-704,"('Cameron,T. L.', 'Hoare,R. J.')",1
-705,"('Cameron,T. L.', 'Karoly,Philippa J.')",1
-706,"('Cameron,T. L.', 'Lai,A.')",1
-707,"('Cameron,T. L.', 'McCutcheon,K.')",1
-708,"('Cameron,T. L.', 'McLean,K. J.')",1
-709,"('Cameron,T. L.', 'Murphy,Michael')",1
-710,"('Cameron,T. L.', 'Mutarana,M. I.')",1
-711,"('Cameron,T. L.', 'Nurse,Ewan S.')",1
-712,"('Cameron,T. L.', 'Richardson,Mark P.')",1
-713,"('Cameron,T. L.', 'Ringo,S. G.')",1
-714,"('Cameron,T. L.', 'Seiderer,L.')",1
-715,"('Cameron,T. L.', 'Seneviratne,U.')",1
-716,"('Cameron,T. L.', 'Stirling,Rachel E.')",1
-717,"('Cook,Mark J.', 'Heasman,J.')",1
-718,"('Cook,Mark J.', 'Hoare,R. J.')",1
-719,"('Cook,Mark J.', 'Lai,A.')",1
-720,"('Cook,Mark J.', 'McCutcheon,K.')",1
-721,"('Cook,Mark J.', 'McLean,K. J.')",1
-722,"('Cook,Mark J.', 'Mutarana,M. I.')",1
-723,"('Cook,Mark J.', 'Ringo,S. G.')",1
-724,"('Cook,Mark J.', 'Seiderer,L.')",1
-725,"('Cook,Mark J.', 'Seneviratne,U.')",1
-726,"(""D'Souza,Wendyl"", 'Freestone,Dean R.')",2
-727,"(""D'Souza,Wendyl"", 'Grayden,David B.')",2
-728,"(""D'Souza,Wendyl"", 'Heasman,J.')",1
-729,"(""D'Souza,Wendyl"", 'Hoare,R. J.')",1
-730,"(""D'Souza,Wendyl"", 'Karoly,Philippa J.')",2
-731,"(""D'Souza,Wendyl"", 'Lai,A.')",1
-732,"(""D'Souza,Wendyl"", 'McCutcheon,K.')",1
-733,"(""D'Souza,Wendyl"", 'McLean,K. J.')",1
-734,"(""D'Souza,Wendyl"", 'Mutarana,M. I.')",1
-735,"(""D'Souza,Wendyl"", 'Nurse,Ewan S.')",2
-736,"(""D'Souza,Wendyl"", 'Richardson,Mark P.')",2
-737,"(""D'Souza,Wendyl"", 'Ringo,S. G.')",1
-738,"(""D'Souza,Wendyl"", 'Seiderer,L.')",1
-739,"(""D'Souza,Wendyl"", 'Seneviratne,U.')",1
-740,"(""D'Souza,Wendyl"", 'Stirling,Rachel E.')",2
-741,"('Freestone,Dean R.', 'Heasman,J.')",1
-742,"('Freestone,Dean R.', 'Hoare,R. J.')",1
-743,"('Freestone,Dean R.', 'Lai,A.')",1
-744,"('Freestone,Dean R.', 'McCutcheon,K.')",1
-745,"('Freestone,Dean R.', 'McLean,K. J.')",1
-746,"('Freestone,Dean R.', 'Murphy,Michael')",1
-747,"('Freestone,Dean R.', 'Mutarana,M. I.')",1
-748,"('Freestone,Dean R.', 'Ringo,S. G.')",1
-749,"('Freestone,Dean R.', 'Seiderer,L.')",1
-750,"('Freestone,Dean R.', 'Seneviratne,U.')",1
-751,"('Freestone,Dean R.', 'Stirling,Rachel E.')",2
-752,"('Grayden,David B.', 'Heasman,J.')",1
-753,"('Grayden,David B.', 'Hoare,R. J.')",1
-754,"('Grayden,David B.', 'Lai,A.')",1
-755,"('Grayden,David B.', 'McCutcheon,K.')",1
-756,"('Grayden,David B.', 'McLean,K. J.')",1
-757,"('Grayden,David B.', 'Murphy,Michael')",1
-758,"('Grayden,David B.', 'Mutarana,M. I.')",1
-759,"('Grayden,David B.', 'Ringo,S. G.')",1
-760,"('Grayden,David B.', 'Seiderer,L.')",1
-761,"('Grayden,David B.', 'Seneviratne,U.')",1
-762,"('Heasman,J.', 'Hoare,R. J.')",1
-763,"('Heasman,J.', 'Karoly,Philippa J.')",1
-764,"('Heasman,J.', 'Lai,A.')",1
-765,"('Heasman,J.', 'McCutcheon,K.')",1
-766,"('Heasman,J.', 'McLean,K. J.')",1
-767,"('Heasman,J.', 'Murphy,Michael')",1
-768,"('Heasman,J.', 'Mutarana,M. I.')",1
-769,"('Heasman,J.', 'Nurse,Ewan S.')",1
-770,"('Heasman,J.', 'Richardson,Mark P.')",1
-771,"('Heasman,J.', 'Ringo,S. G.')",1
-772,"('Heasman,J.', 'Seiderer,L.')",1
-773,"('Heasman,J.', 'Seneviratne,U.')",1
-774,"('Heasman,J.', 'Stirling,Rachel E.')",1
-775,"('Hoare,R. J.', 'Karoly,Philippa J.')",1
-776,"('Hoare,R. J.', 'Lai,A.')",1
-777,"('Hoare,R. J.', 'McCutcheon,K.')",1
-778,"('Hoare,R. J.', 'McLean,K. J.')",1
-779,"('Hoare,R. J.', 'Murphy,Michael')",1
-780,"('Hoare,R. J.', 'Mutarana,M. I.')",1
-781,"('Hoare,R. J.', 'Nurse,Ewan S.')",1
-782,"('Hoare,R. J.', 'Richardson,Mark P.')",1
-783,"('Hoare,R. J.', 'Ringo,S. G.')",1
-784,"('Hoare,R. J.', 'Seiderer,L.')",1
-785,"('Hoare,R. J.', 'Seneviratne,U.')",1
-786,"('Hoare,R. J.', 'Stirling,Rachel E.')",1
-787,"('Karoly,Philippa J.', 'Lai,A.')",1
-788,"('Karoly,Philippa J.', 'McCutcheon,K.')",1
-789,"('Karoly,Philippa J.', 'McLean,K. J.')",1
-790,"('Karoly,Philippa J.', 'Murphy,Michael')",1
-791,"('Karoly,Philippa J.', 'Mutarana,M. I.')",1
-792,"('Karoly,Philippa J.', 'Ringo,S. G.')",1
-793,"('Karoly,Philippa J.', 'Seiderer,L.')",1
-794,"('Karoly,Philippa J.', 'Seneviratne,U.')",1
-795,"('Lai,A.', 'McCutcheon,K.')",1
-796,"('Lai,A.', 'McLean,K. J.')",1
-797,"('Lai,A.', 'Murphy,Michael')",1
-798,"('Lai,A.', 'Mutarana,M. I.')",1
-799,"('Lai,A.', 'Nurse,Ewan S.')",1
-800,"('Lai,A.', 'Richardson,Mark P.')",1
-801,"('Lai,A.', 'Ringo,S. G.')",1
-802,"('Lai,A.', 'Seiderer,L.')",1
-803,"('Lai,A.', 'Seneviratne,U.')",1
-804,"('Lai,A.', 'Stirling,Rachel E.')",1
-805,"('McCutcheon,K.', 'McLean,K. J.')",1
-806,"('McCutcheon,K.', 'Murphy,Michael')",1
-807,"('McCutcheon,K.', 'Mutarana,M. I.')",1
-808,"('McCutcheon,K.', 'Nurse,Ewan S.')",1
-809,"('McCutcheon,K.', 'Richardson,Mark P.')",1
-810,"('McCutcheon,K.', 'Ringo,S. G.')",1
-811,"('McCutcheon,K.', 'Seiderer,L.')",1
-812,"('McCutcheon,K.', 'Seneviratne,U.')",1
-813,"('McCutcheon,K.', 'Stirling,Rachel E.')",1
-814,"('McLean,K. J.', 'Murphy,Michael')",1
-815,"('McLean,K. J.', 'Mutarana,M. I.')",1
-816,"('McLean,K. J.', 'Nurse,Ewan S.')",1
-817,"('McLean,K. J.', 'Richardson,Mark P.')",1
-818,"('McLean,K. J.', 'Ringo,S. G.')",1
-819,"('McLean,K. J.', 'Seiderer,L.')",1
-820,"('McLean,K. J.', 'Seneviratne,U.')",1
-821,"('McLean,K. J.', 'Stirling,Rachel E.')",1
-822,"('Murphy,Michael', 'Mutarana,M. I.')",1
-823,"('Murphy,Michael', 'Nurse,Ewan S.')",1
-824,"('Murphy,Michael', 'Richardson,Mark P.')",1
-825,"('Murphy,Michael', 'Ringo,S. G.')",1
-826,"('Murphy,Michael', 'Seiderer,L.')",1
-827,"('Murphy,Michael', 'Seneviratne,U.')",1
-828,"('Murphy,Michael', 'Stirling,Rachel E.')",1
-829,"('Mutarana,M. I.', 'Nurse,Ewan S.')",1
-830,"('Mutarana,M. I.', 'Richardson,Mark P.')",1
-831,"('Mutarana,M. I.', 'Ringo,S. G.')",1
-832,"('Mutarana,M. I.', 'Seiderer,L.')",1
-833,"('Mutarana,M. I.', 'Seneviratne,U.')",1
-834,"('Mutarana,M. I.', 'Stirling,Rachel E.')",1
-835,"('Nurse,Ewan S.', 'Ringo,S. G.')",1
-836,"('Nurse,Ewan S.', 'Seiderer,L.')",1
-837,"('Nurse,Ewan S.', 'Seneviratne,U.')",1
-838,"('Nurse,Ewan S.', 'Stirling,Rachel E.')",2
-839,"('Richardson,Mark P.', 'Ringo,S. G.')",1
-840,"('Richardson,Mark P.', 'Seiderer,L.')",1
-841,"('Richardson,Mark P.', 'Seneviratne,U.')",1
-842,"('Richardson,Mark P.', 'Stirling,Rachel E.')",2
-843,"('Ringo,S. G.', 'Seiderer,L.')",1
-844,"('Ringo,S. G.', 'Seneviratne,U.')",1
-845,"('Ringo,S. G.', 'Stirling,Rachel E.')",1
-846,"('Seiderer,L.', 'Seneviratne,U.')",1
-847,"('Seiderer,L.', 'Stirling,Rachel E.')",1
-848,"('Seneviratne,U.', 'Stirling,Rachel E.')",1
-849,"('Davis,Gay R.', 'Temkin,Nancy R.')",1
-850,"('Attia,Tal Pal', 'Brinkmann,Benjamin H.')",1
-851,"('Attia,Tal Pal', 'Cook,Mark J.')",1
-852,"('Attia,Tal Pal', ""D'Souza,Wendyl"")",1
-853,"('Attia,Tal Pal', 'Freestone,Dean R.')",1
-854,"('Attia,Tal Pal', 'Grayden,David B.')",1
-855,"('Attia,Tal Pal', 'Karoly,Philippa J.')",1
-856,"('Attia,Tal Pal', 'Nurse,Ewan S.')",1
-857,"('Attia,Tal Pal', 'Payne,Daniel E.')",1
-858,"('Attia,Tal Pal', 'Richardson,Mark P.')",1
-859,"('Attia,Tal Pal', 'Stirling,Rachel E.')",1
-860,"('Attia,Tal Pal', 'Viana,Pedro F.')",1
-861,"('Brinkmann,Benjamin H.', 'Viana,Pedro F.')",1
-862,"('Cook,Mark J.', 'Viana,Pedro F.')",1
-863,"(""D'Souza,Wendyl"", 'Payne,Daniel E.')",1
-864,"(""D'Souza,Wendyl"", 'Viana,Pedro F.')",1
-865,"('Freestone,Dean R.', 'Viana,Pedro F.')",1
-866,"('Grayden,David B.', 'Viana,Pedro F.')",1
-867,"('Karoly,Philippa J.', 'Viana,Pedro F.')",1
-868,"('Nurse,Ewan S.', 'Viana,Pedro F.')",1
-869,"('Payne,Daniel E.', 'Stirling,Rachel E.')",1
-870,"('Payne,Daniel E.', 'Viana,Pedro F.')",1
-871,"('Richardson,Mark P.', 'Viana,Pedro F.')",1
-872,"('Stirling,Rachel E.', 'Viana,Pedro F.')",1
-873,"('Cook,Mark J.', 'Kameneva,Tatiana')",1
-874,"('Cook,Mark J.', 'Lambert,Elisabeth')",1
-875,"('Cook,Mark J.', 'Xiong,Wenjuan')",1
-876,"('Kameneva,Tatiana', 'Lambert,Elisabeth')",1
-877,"('Kameneva,Tatiana', 'Nurse,Ewan S.')",1
-878,"('Kameneva,Tatiana', 'Xiong,Wenjuan')",1
-879,"('Lambert,Elisabeth', 'Nurse,Ewan S.')",1
-880,"('Lambert,Elisabeth', 'Xiong,Wenjuan')",1
-881,"('Nurse,Ewan S.', 'Xiong,Wenjuan')",1
-882,"('Berry,Brent M.', 'Brinkmann,Benjamin H.')",1
-883,"('Berry,Brent M.', 'Iyer,Ravishankar K.')",1
-884,"('Berry,Brent M.', 'Varatharajah,Yogatheesan')",1
-885,"('Berry,Brent M.', 'Worrell,Gregory A.')",1
-886,"('Brinkmann,Benjamin H.', 'Iyer,Ravishankar K.')",1
-887,"('Iyer,Ravishankar K.', 'Varatharajah,Yogatheesan')",1
-888,"('Iyer,Ravishankar K.', 'Worrell,Gregory A.')",1
-889,"('Baud,Maxime O.', 'Schindler,Kaspar')",1
-890,"('Proix,Timothee', 'Schindler,Kaspar')",1
-891,"('Rao,Vikram R.', 'Schindler,Kaspar')",1
-892,"('Cook,Mark J.', 'Cristofaro,Sabrina')",1
-893,"('Cook,Mark J.', 'Detyniecki,Kamil')",1
-894,"('Cook,Mark J.', 'French,Jacqueline A.')",1
-895,"('Cook,Mark J.', 'Goldenholz,Shira R.')",1
-896,"('Cook,Mark J.', 'Haut,Sheryl R.')",1
-897,"('Cook,Mark J.', 'Hixson,John')",1
-898,"('Cook,Mark J.', 'Kuzniecky,Ruben')",1
-899,"('Cook,Mark J.', 'Lowenstein,Daniel')",1
-900,"('Cook,Mark J.', 'Strashny,Alex')",1
-901,"('Cristofaro,Sabrina', 'Detyniecki,Kamil')",1
-902,"('Cristofaro,Sabrina', 'French,Jacqueline A.')",1
-903,"('Cristofaro,Sabrina', 'Goldenholz,Daniel M.')",1
-904,"('Cristofaro,Sabrina', 'Goldenholz,Shira R.')",1
-905,"('Cristofaro,Sabrina', 'Haut,Sheryl R.')",1
-906,"('Cristofaro,Sabrina', 'Hixson,John')",1
-907,"('Cristofaro,Sabrina', 'Karoly,Philippa J.')",1
-908,"('Cristofaro,Sabrina', 'Kuzniecky,Ruben')",1
-909,"('Cristofaro,Sabrina', 'Lowenstein,Daniel')",1
-910,"('Cristofaro,Sabrina', 'Moss,Robert E.')",1
-911,"('Cristofaro,Sabrina', 'Strashny,Alex')",1
-912,"('Cristofaro,Sabrina', 'Theodore,William H.')",1
-913,"('Detyniecki,Kamil', 'French,Jacqueline A.')",1
-914,"('Detyniecki,Kamil', 'Goldenholz,Daniel M.')",1
-915,"('Detyniecki,Kamil', 'Goldenholz,Shira R.')",1
-916,"('Detyniecki,Kamil', 'Haut,Sheryl R.')",1
-917,"('Detyniecki,Kamil', 'Hixson,John')",1
-918,"('Detyniecki,Kamil', 'Karoly,Philippa J.')",1
-919,"('Detyniecki,Kamil', 'Kuzniecky,Ruben')",1
-920,"('Detyniecki,Kamil', 'Lowenstein,Daniel')",1
-921,"('Detyniecki,Kamil', 'Moss,Robert E.')",1
-922,"('Detyniecki,Kamil', 'Strashny,Alex')",1
-923,"('Detyniecki,Kamil', 'Theodore,William H.')",1
-924,"('French,Jacqueline A.', 'Goldenholz,Daniel M.')",1
-925,"('French,Jacqueline A.', 'Goldenholz,Shira R.')",1
-926,"('French,Jacqueline A.', 'Haut,Sheryl R.')",1
-927,"('French,Jacqueline A.', 'Hixson,John')",1
-928,"('French,Jacqueline A.', 'Karoly,Philippa J.')",1
-929,"('French,Jacqueline A.', 'Kuzniecky,Ruben')",1
-930,"('French,Jacqueline A.', 'Lowenstein,Daniel')",1
-931,"('French,Jacqueline A.', 'Moss,Robert E.')",1
-932,"('French,Jacqueline A.', 'Strashny,Alex')",1
-933,"('French,Jacqueline A.', 'Theodore,William H.')",1
-934,"('Goldenholz,Daniel M.', 'Haut,Sheryl R.')",1
-935,"('Goldenholz,Daniel M.', 'Hixson,John')",1
-936,"('Goldenholz,Daniel M.', 'Kuzniecky,Ruben')",1
-937,"('Goldenholz,Daniel M.', 'Lowenstein,Daniel')",1
-938,"('Goldenholz,Daniel M.', 'Strashny,Alex')",1
-939,"('Goldenholz,Shira R.', 'Haut,Sheryl R.')",1
-940,"('Goldenholz,Shira R.', 'Hixson,John')",1
-941,"('Goldenholz,Shira R.', 'Karoly,Philippa J.')",1
-942,"('Goldenholz,Shira R.', 'Kuzniecky,Ruben')",1
-943,"('Goldenholz,Shira R.', 'Lowenstein,Daniel')",1
-944,"('Goldenholz,Shira R.', 'Strashny,Alex')",1
-945,"('Goldenholz,Shira R.', 'Theodore,William H.')",1
-946,"('Haut,Sheryl R.', 'Hixson,John')",1
-947,"('Haut,Sheryl R.', 'Karoly,Philippa J.')",1
-948,"('Haut,Sheryl R.', 'Kuzniecky,Ruben')",1
-949,"('Haut,Sheryl R.', 'Lowenstein,Daniel')",1
-950,"('Haut,Sheryl R.', 'Moss,Robert E.')",1
-951,"('Haut,Sheryl R.', 'Strashny,Alex')",1
-952,"('Haut,Sheryl R.', 'Theodore,William H.')",1
-953,"('Hixson,John', 'Karoly,Philippa J.')",1
-954,"('Hixson,John', 'Kuzniecky,Ruben')",1
-955,"('Hixson,John', 'Lowenstein,Daniel')",1
-956,"('Hixson,John', 'Moss,Robert E.')",1
-957,"('Hixson,John', 'Strashny,Alex')",1
-958,"('Hixson,John', 'Theodore,William H.')",1
-959,"('Karoly,Philippa J.', 'Kuzniecky,Ruben')",1
-960,"('Karoly,Philippa J.', 'Lowenstein,Daniel')",1
-961,"('Karoly,Philippa J.', 'Strashny,Alex')",1
-962,"('Kuzniecky,Ruben', 'Lowenstein,Daniel')",1
-963,"('Kuzniecky,Ruben', 'Moss,Robert E.')",1
-964,"('Kuzniecky,Ruben', 'Strashny,Alex')",1
-965,"('Kuzniecky,Ruben', 'Theodore,William H.')",1
-966,"('Lowenstein,Daniel', 'Moss,Robert E.')",1
-967,"('Lowenstein,Daniel', 'Strashny,Alex')",1
-968,"('Lowenstein,Daniel', 'Theodore,William H.')",1
-969,"('Moss,Robert E.', 'Strashny,Alex')",1
-970,"('Strashny,Alex', 'Theodore,William H.')",1
-971,"('Cajochen,Christian', 'Dijk,Derk-Jan')",1
-972,"('Cajochen,Christian', 'Eriksson,Sofia H.')",1
-973,"('Cajochen,Christian', 'Khan,Sofia')",1
-974,"('Cajochen,Christian', 'Khatami,Ramin')",1
-975,"('Cajochen,Christian', 'Loddenkemper,Tobias')",1
-976,"('Cajochen,Christian', 'Nobili,Lino')",1
-977,"('Dijk,Derk-Jan', 'Eriksson,Sofia H.')",1
-978,"('Dijk,Derk-Jan', 'Khan,Sofia')",1
-979,"('Dijk,Derk-Jan', 'Khatami,Ramin')",1
-980,"('Dijk,Derk-Jan', 'Loddenkemper,Tobias')",1
-981,"('Dijk,Derk-Jan', 'Nobili,Lino')",1
-982,"('Eriksson,Sofia H.', 'Khan,Sofia')",1
-983,"('Eriksson,Sofia H.', 'Khatami,Ramin')",1
-984,"('Eriksson,Sofia H.', 'Loddenkemper,Tobias')",1
-985,"('Eriksson,Sofia H.', 'Nobili,Lino')",1
-986,"('Khan,Sofia', 'Khatami,Ramin')",1
-987,"('Khan,Sofia', 'Loddenkemper,Tobias')",1
-988,"('Khan,Sofia', 'Nobili,Lino')",1
-989,"('Khatami,Ramin', 'Loddenkemper,Tobias')",1
-990,"('Khatami,Ramin', 'Nobili,Lino')",1
-991,"('Loddenkemper,Tobias', 'Nobili,Lino')",1
-992,"('Gavillet,Erika', 'Mackay,Michael')",1
-993,"('Gavillet,Erika', 'Mahlaba,Hector')",1
-994,"('Gavillet,Erika', 'Whittaker,Roger G.')",1
-995,"('Mackay,Michael', 'Mahlaba,Hector')",1
-996,"('Mackay,Michael', 'Whittaker,Roger G.')",1
-997,"('Mahlaba,Hector', 'Whittaker,Roger G.')",1
-998,"('Alexopoulos,Andreas V.', 'Gregas,Matt')",1
-999,"('Alexopoulos,Andreas V.', 'Kothare,Sanjeev V.')",1
-1000,"('Alexopoulos,Andreas V.', 'Loddenkemper,Tobias')",1
-1001,"('Alexopoulos,Andreas V.', 'Ramgopal,Sriram')",1
-1002,"('Alexopoulos,Andreas V.', 'Rotenberg,Alexander')",1
-1003,"('Alexopoulos,Andreas V.', 'Shah,Aneri')",1
-1004,"('Alexopoulos,Andreas V.', 'Vendrame,Martina')",1
-1005,"('Alexopoulos,Andreas V.', 'Wyllie,Elaine')",1
-1006,"('Alexopoulos,Andreas V.', 'Zarowski,Marcin')",1
-1007,"('Gregas,Matt', 'Kothare,Sanjeev V.')",1
-1008,"('Gregas,Matt', 'Loddenkemper,Tobias')",1
-1009,"('Gregas,Matt', 'Ramgopal,Sriram')",1
-1010,"('Gregas,Matt', 'Rotenberg,Alexander')",1
-1011,"('Gregas,Matt', 'Shah,Aneri')",1
-1012,"('Gregas,Matt', 'Vendrame,Martina')",1
-1013,"('Gregas,Matt', 'Wyllie,Elaine')",1
-1014,"('Gregas,Matt', 'Zarowski,Marcin')",1
-1015,"('Kothare,Sanjeev V.', 'Loddenkemper,Tobias')",1
-1016,"('Kothare,Sanjeev V.', 'Ramgopal,Sriram')",1
-1017,"('Kothare,Sanjeev V.', 'Rotenberg,Alexander')",1
-1018,"('Kothare,Sanjeev V.', 'Shah,Aneri')",1
-1019,"('Kothare,Sanjeev V.', 'Vendrame,Martina')",1
-1020,"('Kothare,Sanjeev V.', 'Wyllie,Elaine')",1
-1021,"('Kothare,Sanjeev V.', 'Zarowski,Marcin')",1
-1022,"('Loddenkemper,Tobias', 'Ramgopal,Sriram')",1
-1023,"('Loddenkemper,Tobias', 'Rotenberg,Alexander')",1
-1024,"('Loddenkemper,Tobias', 'Shah,Aneri')",1
-1025,"('Loddenkemper,Tobias', 'Vendrame,Martina')",1
-1026,"('Loddenkemper,Tobias', 'Wyllie,Elaine')",1
-1027,"('Loddenkemper,Tobias', 'Zarowski,Marcin')",1
-1028,"('Ramgopal,Sriram', 'Rotenberg,Alexander')",1
-1029,"('Ramgopal,Sriram', 'Shah,Aneri')",1
-1030,"('Ramgopal,Sriram', 'Vendrame,Martina')",1
-1031,"('Ramgopal,Sriram', 'Wyllie,Elaine')",1
-1032,"('Ramgopal,Sriram', 'Zarowski,Marcin')",1
-1033,"('Rotenberg,Alexander', 'Shah,Aneri')",1
-1034,"('Rotenberg,Alexander', 'Vendrame,Martina')",1
-1035,"('Rotenberg,Alexander', 'Wyllie,Elaine')",1
-1036,"('Rotenberg,Alexander', 'Zarowski,Marcin')",1
-1037,"('Shah,Aneri', 'Vendrame,Martina')",1
-1038,"('Shah,Aneri', 'Wyllie,Elaine')",1
-1039,"('Shah,Aneri', 'Zarowski,Marcin')",1
-1040,"('Vendrame,Martina', 'Wyllie,Elaine')",1
-1041,"('Vendrame,Martina', 'Zarowski,Marcin')",1
-1042,"('Wyllie,Elaine', 'Zarowski,Marcin')",1
-1043,"('Smyk,Magdalena K.', 'van Luijtelaar,Gilles')",1
-1044,"('Kavehei,Omid', 'Kuhlmann,Levin')",1
-1045,"('Kavehei,Omid', 'Maher,Christina')",1
-1046,"('Kavehei,Omid', 'McEwan,Alistair')",1
-1047,"('Kavehei,Omid', 'Nikpour,Armin')",1
-1048,"('Kavehei,Omid', 'Truong,Nhan D.')",1
-1049,"('Kavehei,Omid', 'Yang,Yikai')",1
-1050,"('Kuhlmann,Levin', 'Maher,Christina')",1
-1051,"('Kuhlmann,Levin', 'McEwan,Alistair')",1
-1052,"('Kuhlmann,Levin', 'Nikpour,Armin')",1
-1053,"('Kuhlmann,Levin', 'Truong,Nhan D.')",1
-1054,"('Kuhlmann,Levin', 'Yang,Yikai')",1
-1055,"('Maher,Christina', 'McEwan,Alistair')",1
-1056,"('Maher,Christina', 'Nikpour,Armin')",1
-1057,"('Maher,Christina', 'Truong,Nhan D.')",1
-1058,"('Maher,Christina', 'Yang,Yikai')",1
-1059,"('McEwan,Alistair', 'Nikpour,Armin')",1
-1060,"('McEwan,Alistair', 'Truong,Nhan D.')",1
-1061,"('McEwan,Alistair', 'Yang,Yikai')",1
-1062,"('Nikpour,Armin', 'Truong,Nhan D.')",1
-1063,"('Nikpour,Armin', 'Yang,Yikai')",1
-1064,"('Truong,Nhan D.', 'Yang,Yikai')",1
+21,"('Bidwell,Jonathan', 'Black,Angela P')",1
+22,"('Bidwell,Jonathan', 'Chiang,Sharon')",1
+23,"('Bidwell,Jonathan', 'Jackson,Michele')",1
+24,"('Bidwell,Jonathan', 'Loddenkemper,Tobias')",1
+25,"('Bidwell,Jonathan', 'Meisel,Christian')",1
+26,"('Bidwell,Jonathan', 'Moss,Chuck')",1
+27,"('Bidwell,Jonathan', 'Moss,Robert E.')",1
+28,"('Black,Angela P', 'Chiang,Sharon')",1
+29,"('Black,Angela P', 'Jackson,Michele')",1
+30,"('Black,Angela P', 'Loddenkemper,Tobias')",1
+31,"('Black,Angela P', 'Meisel,Christian')",1
+32,"('Black,Angela P', 'Moss,Chuck')",1
+33,"('Black,Angela P', 'Moss,Robert E.')",1
+34,"('Chiang,Sharon', 'Jackson,Michele')",1
+35,"('Chiang,Sharon', 'Loddenkemper,Tobias')",1
+36,"('Chiang,Sharon', 'Meisel,Christian')",1
+37,"('Chiang,Sharon', 'Moss,Chuck')",1
+38,"('Chiang,Sharon', 'Moss,Robert E.')",2
+39,"('Jackson,Michele', 'Loddenkemper,Tobias')",1
+40,"('Jackson,Michele', 'Meisel,Christian')",1
+41,"('Jackson,Michele', 'Moss,Chuck')",1
+42,"('Jackson,Michele', 'Moss,Robert E.')",1
+43,"('Loddenkemper,Tobias', 'Meisel,Christian')",1
+44,"('Loddenkemper,Tobias', 'Moss,Chuck')",1
+45,"('Loddenkemper,Tobias', 'Moss,Robert E.')",1
+46,"('Meisel,Christian', 'Moss,Chuck')",1
+47,"('Meisel,Christian', 'Moss,Robert E.')",1
+48,"('Moss,Chuck', 'Moss,Robert E.')",1
+49,"('Bernard,Christophe', 'Dumanis,Sonya B.')",1
+50,"('Bernard,Christophe', 'French,Jacqueline A.')",1
+51,"('Bernard,Christophe', 'Fureman,Brandy E.')",1
+52,"('Bernard,Christophe', 'Worrell,Gregory A.')",1
+53,"('Dumanis,Sonya B.', 'French,Jacqueline A.')",1
+54,"('Dumanis,Sonya B.', 'Fureman,Brandy E.')",2
+55,"('Dumanis,Sonya B.', 'Worrell,Gregory A.')",3
+56,"('French,Jacqueline A.', 'Fureman,Brandy E.')",1
+57,"('French,Jacqueline A.', 'Worrell,Gregory A.')",1
+58,"('Fureman,Brandy E.', 'Worrell,Gregory A.')",1
+59,"('Cook,Mark J.', 'Freestone,Dean R.')",9
+60,"('Cook,Mark J.', 'Karoly,Philippa J.')",10
+61,"('Freestone,Dean R.', 'Karoly,Philippa J.')",9
+62,"('Archer,John', 'Berkovic,Samuel F.')",1
+63,"('Archer,John', 'Cook,Mark J.')",1
+64,"('Archer,John', ""D'Souza,Wendyl"")",1
+65,"('Archer,John', 'Fabinyi,Gavin')",1
+66,"('Archer,John', 'Himes,David')",1
+67,"('Archer,John', 'Hosking,Sean')",1
+68,"('Archer,John', 'Leyde,Kent')",1
+69,"('Archer,John', 'Lightfoot,Paul')",1
+70,"('Archer,John', 'Litewka,Lucas')",1
+71,"('Archer,John', 'Morokoff,Andrew')",1
+72,"('Archer,John', 'Murphy,Michael')",1
+73,"('Archer,John', ""O'Brien,Terence J."")",1
+74,"('Archer,John', 'Ruedebusch,Vanessa')",1
+75,"('Archer,John', 'Sheffield,W. Douglas')",1
+76,"('Archer,John', 'Snyder,David')",1
+77,"('Archer,John', 'Yerra,Raju')",1
+78,"('Berkovic,Samuel F.', 'Cook,Mark J.')",1
+79,"('Berkovic,Samuel F.', ""D'Souza,Wendyl"")",1
+80,"('Berkovic,Samuel F.', 'Fabinyi,Gavin')",1
+81,"('Berkovic,Samuel F.', 'Himes,David')",1
+82,"('Berkovic,Samuel F.', 'Hosking,Sean')",1
+83,"('Berkovic,Samuel F.', 'Leyde,Kent')",1
+84,"('Berkovic,Samuel F.', 'Lightfoot,Paul')",1
+85,"('Berkovic,Samuel F.', 'Litewka,Lucas')",1
+86,"('Berkovic,Samuel F.', 'Morokoff,Andrew')",1
+87,"('Berkovic,Samuel F.', 'Murphy,Michael')",1
+88,"('Berkovic,Samuel F.', ""O'Brien,Terence J."")",1
+89,"('Berkovic,Samuel F.', 'Ruedebusch,Vanessa')",1
+90,"('Berkovic,Samuel F.', 'Sheffield,W. Douglas')",1
+91,"('Berkovic,Samuel F.', 'Snyder,David')",1
+92,"('Berkovic,Samuel F.', 'Yerra,Raju')",1
+93,"('Cook,Mark J.', ""D'Souza,Wendyl"")",3
+94,"('Cook,Mark J.', 'Fabinyi,Gavin')",1
+95,"('Cook,Mark J.', 'Himes,David')",1
+96,"('Cook,Mark J.', 'Hosking,Sean')",1
+97,"('Cook,Mark J.', 'Leyde,Kent')",2
+98,"('Cook,Mark J.', 'Lightfoot,Paul')",1
+99,"('Cook,Mark J.', 'Litewka,Lucas')",1
+100,"('Cook,Mark J.', 'Morokoff,Andrew')",1
+101,"('Cook,Mark J.', 'Murphy,Michael')",2
+102,"('Cook,Mark J.', ""O'Brien,Terence J."")",1
+103,"('Cook,Mark J.', 'Ruedebusch,Vanessa')",1
+104,"('Cook,Mark J.', 'Sheffield,W. Douglas')",1
+105,"('Cook,Mark J.', 'Snyder,David')",1
+106,"('Cook,Mark J.', 'Yerra,Raju')",1
+107,"(""D'Souza,Wendyl"", 'Fabinyi,Gavin')",1
+108,"(""D'Souza,Wendyl"", 'Himes,David')",1
+109,"(""D'Souza,Wendyl"", 'Hosking,Sean')",1
+110,"(""D'Souza,Wendyl"", 'Leyde,Kent')",1
+111,"(""D'Souza,Wendyl"", 'Lightfoot,Paul')",1
+112,"(""D'Souza,Wendyl"", 'Litewka,Lucas')",1
+113,"(""D'Souza,Wendyl"", 'Morokoff,Andrew')",1
+114,"(""D'Souza,Wendyl"", 'Murphy,Michael')",2
+115,"(""D'Souza,Wendyl"", ""O'Brien,Terence J."")",1
+116,"(""D'Souza,Wendyl"", 'Ruedebusch,Vanessa')",1
+117,"(""D'Souza,Wendyl"", 'Sheffield,W. Douglas')",1
+118,"(""D'Souza,Wendyl"", 'Snyder,David')",1
+119,"(""D'Souza,Wendyl"", 'Yerra,Raju')",1
+120,"('Fabinyi,Gavin', 'Himes,David')",1
+121,"('Fabinyi,Gavin', 'Hosking,Sean')",1
+122,"('Fabinyi,Gavin', 'Leyde,Kent')",1
+123,"('Fabinyi,Gavin', 'Lightfoot,Paul')",1
+124,"('Fabinyi,Gavin', 'Litewka,Lucas')",1
+125,"('Fabinyi,Gavin', 'Morokoff,Andrew')",1
+126,"('Fabinyi,Gavin', 'Murphy,Michael')",1
+127,"('Fabinyi,Gavin', ""O'Brien,Terence J."")",1
+128,"('Fabinyi,Gavin', 'Ruedebusch,Vanessa')",1
+129,"('Fabinyi,Gavin', 'Sheffield,W. Douglas')",1
+130,"('Fabinyi,Gavin', 'Snyder,David')",1
+131,"('Fabinyi,Gavin', 'Yerra,Raju')",1
+132,"('Himes,David', 'Hosking,Sean')",1
+133,"('Himes,David', 'Leyde,Kent')",1
+134,"('Himes,David', 'Lightfoot,Paul')",1
+135,"('Himes,David', 'Litewka,Lucas')",1
+136,"('Himes,David', 'Morokoff,Andrew')",1
+137,"('Himes,David', 'Murphy,Michael')",1
+138,"('Himes,David', ""O'Brien,Terence J."")",1
+139,"('Himes,David', 'Ruedebusch,Vanessa')",1
+140,"('Himes,David', 'Sheffield,W. Douglas')",1
+141,"('Himes,David', 'Snyder,David')",1
+142,"('Himes,David', 'Yerra,Raju')",1
+143,"('Hosking,Sean', 'Leyde,Kent')",1
+144,"('Hosking,Sean', 'Lightfoot,Paul')",1
+145,"('Hosking,Sean', 'Litewka,Lucas')",1
+146,"('Hosking,Sean', 'Morokoff,Andrew')",1
+147,"('Hosking,Sean', 'Murphy,Michael')",1
+148,"('Hosking,Sean', ""O'Brien,Terence J."")",1
+149,"('Hosking,Sean', 'Ruedebusch,Vanessa')",1
+150,"('Hosking,Sean', 'Sheffield,W. Douglas')",1
+151,"('Hosking,Sean', 'Snyder,David')",1
+152,"('Hosking,Sean', 'Yerra,Raju')",1
+153,"('Leyde,Kent', 'Lightfoot,Paul')",1
+154,"('Leyde,Kent', 'Litewka,Lucas')",1
+155,"('Leyde,Kent', 'Morokoff,Andrew')",1
+156,"('Leyde,Kent', 'Murphy,Michael')",1
+157,"('Leyde,Kent', ""O'Brien,Terence J."")",1
+158,"('Leyde,Kent', 'Ruedebusch,Vanessa')",2
+159,"('Leyde,Kent', 'Sheffield,W. Douglas')",2
+160,"('Leyde,Kent', 'Snyder,David')",1
+161,"('Leyde,Kent', 'Yerra,Raju')",1
+162,"('Lightfoot,Paul', 'Litewka,Lucas')",1
+163,"('Lightfoot,Paul', 'Morokoff,Andrew')",1
+164,"('Lightfoot,Paul', 'Murphy,Michael')",1
+165,"('Lightfoot,Paul', ""O'Brien,Terence J."")",1
+166,"('Lightfoot,Paul', 'Ruedebusch,Vanessa')",1
+167,"('Lightfoot,Paul', 'Sheffield,W. Douglas')",1
+168,"('Lightfoot,Paul', 'Snyder,David')",1
+169,"('Lightfoot,Paul', 'Yerra,Raju')",1
+170,"('Litewka,Lucas', 'Morokoff,Andrew')",1
+171,"('Litewka,Lucas', 'Murphy,Michael')",1
+172,"('Litewka,Lucas', ""O'Brien,Terence J."")",1
+173,"('Litewka,Lucas', 'Ruedebusch,Vanessa')",1
+174,"('Litewka,Lucas', 'Sheffield,W. Douglas')",1
+175,"('Litewka,Lucas', 'Snyder,David')",1
+176,"('Litewka,Lucas', 'Yerra,Raju')",1
+177,"('Morokoff,Andrew', 'Murphy,Michael')",1
+178,"('Morokoff,Andrew', ""O'Brien,Terence J."")",1
+179,"('Morokoff,Andrew', 'Ruedebusch,Vanessa')",1
+180,"('Morokoff,Andrew', 'Sheffield,W. Douglas')",1
+181,"('Morokoff,Andrew', 'Snyder,David')",1
+182,"('Morokoff,Andrew', 'Yerra,Raju')",1
+183,"('Murphy,Michael', ""O'Brien,Terence J."")",1
+184,"('Murphy,Michael', 'Ruedebusch,Vanessa')",1
+185,"('Murphy,Michael', 'Sheffield,W. Douglas')",1
+186,"('Murphy,Michael', 'Snyder,David')",1
+187,"('Murphy,Michael', 'Yerra,Raju')",1
+188,"(""O'Brien,Terence J."", 'Ruedebusch,Vanessa')",1
+189,"(""O'Brien,Terence J."", 'Sheffield,W. Douglas')",1
+190,"(""O'Brien,Terence J."", 'Snyder,David')",1
+191,"(""O'Brien,Terence J."", 'Yerra,Raju')",1
+192,"('Ruedebusch,Vanessa', 'Sheffield,W. Douglas')",2
+193,"('Ruedebusch,Vanessa', 'Snyder,David')",1
+194,"('Ruedebusch,Vanessa', 'Yerra,Raju')",1
+195,"('Sheffield,W. Douglas', 'Snyder,David')",1
+196,"('Sheffield,W. Douglas', 'Yerra,Raju')",1
+197,"('Snyder,David', 'Yerra,Raju')",1
+198,"('Dumanis,Sonya B.', 'Grzeskowiak,Caitlin L. L.')",1
+199,"('Haut,Sheryl R.', 'Shinnar,Shlomo')",1
+200,"('Haut,Sheryl R.', 'Vouyiouklis,Mary')",1
+201,"('Shinnar,Shlomo', 'Vouyiouklis,Mary')",1
+202,"('Borkowski,Thomas', 'Hall,Charles B.')",1
+203,"('Borkowski,Thomas', 'Haut,Sheryl R.')",1
+204,"('Borkowski,Thomas', 'Lipton,Richard B.')",1
+205,"('Borkowski,Thomas', 'Tennen,Howard')",1
+206,"('Hall,Charles B.', 'Haut,Sheryl R.')",2
+207,"('Hall,Charles B.', 'Lipton,Richard B.')",2
+208,"('Hall,Charles B.', 'Tennen,Howard')",1
+209,"('Haut,Sheryl R.', 'Lipton,Richard B.')",3
+210,"('Haut,Sheryl R.', 'Tennen,Howard')",1
+211,"('Lipton,Richard B.', 'Tennen,Howard')",1
+212,"('Hall,Charles B.', 'Masur,Jonathan')",1
+213,"('Haut,Sheryl R.', 'Masur,Jonathan')",1
+214,"('Lipton,Richard B.', 'Masur,Jonathan')",1
+215,"('Hofstra,Wytske AElig', 'de Weerd,Al Wytze')",1
+216,"('Goldenholz,Daniel M.', 'Goldenholz,Shira R.')",1
+217,"('Goldenholz,Daniel M.', 'Moss,Robert E.')",3
+218,"('Goldenholz,Daniel M.', 'Romero,Juan')",1
+219,"('Goldenholz,Daniel M.', 'Sun,Haoqi')",1
+220,"('Goldenholz,Daniel M.', 'Westover,Brandon')",1
+221,"('Goldenholz,Shira R.', 'Moss,Robert E.')",1
+222,"('Goldenholz,Shira R.', 'Romero,Juan')",1
+223,"('Goldenholz,Shira R.', 'Sun,Haoqi')",1
+224,"('Goldenholz,Shira R.', 'Westover,Brandon')",1
+225,"('Moss,Robert E.', 'Romero,Juan')",1
+226,"('Moss,Robert E.', 'Sun,Haoqi')",1
+227,"('Moss,Robert E.', 'Westover,Brandon')",1
+228,"('Romero,Juan', 'Sun,Haoqi')",1
+229,"('Romero,Juan', 'Westover,Brandon')",1
+230,"('Sun,Haoqi', 'Westover,Brandon')",1
+231,"('Brinkmann,Benjamin H.', 'Crepeau,Daniel')",1
+232,"('Brinkmann,Benjamin H.', 'Howbert,J. Jeffry')",1
+233,"('Brinkmann,Benjamin H.', 'Leyde,Kent')",1
+234,"('Brinkmann,Benjamin H.', 'Litt,Brian')",1
+235,"('Brinkmann,Benjamin H.', 'Mavoori,Jaideep')",1
+236,"('Brinkmann,Benjamin H.', 'Patterson,Edward E.')",1
+237,"('Brinkmann,Benjamin H.', 'Ruedebusch,Vanessa')",1
+238,"('Brinkmann,Benjamin H.', 'Sheffield,W. Douglas')",1
+239,"('Brinkmann,Benjamin H.', 'Stead,S. Matt')",1
+240,"('Brinkmann,Benjamin H.', 'Sturges,Beverly')",1
+241,"('Brinkmann,Benjamin H.', 'Vasoli,Vincent M.')",1
+242,"('Brinkmann,Benjamin H.', 'Vite,Charles H.')",1
+243,"('Brinkmann,Benjamin H.', 'Worrell,Gregory A.')",5
+244,"('Crepeau,Daniel', 'Howbert,J. Jeffry')",1
+245,"('Crepeau,Daniel', 'Leyde,Kent')",1
+246,"('Crepeau,Daniel', 'Litt,Brian')",1
+247,"('Crepeau,Daniel', 'Mavoori,Jaideep')",1
+248,"('Crepeau,Daniel', 'Patterson,Edward E.')",1
+249,"('Crepeau,Daniel', 'Ruedebusch,Vanessa')",1
+250,"('Crepeau,Daniel', 'Sheffield,W. Douglas')",1
+251,"('Crepeau,Daniel', 'Stead,S. Matt')",1
+252,"('Crepeau,Daniel', 'Sturges,Beverly')",1
+253,"('Crepeau,Daniel', 'Vasoli,Vincent M.')",1
+254,"('Crepeau,Daniel', 'Vite,Charles H.')",1
+255,"('Crepeau,Daniel', 'Worrell,Gregory A.')",1
+256,"('Howbert,J. Jeffry', 'Leyde,Kent')",1
+257,"('Howbert,J. Jeffry', 'Litt,Brian')",1
+258,"('Howbert,J. Jeffry', 'Mavoori,Jaideep')",1
+259,"('Howbert,J. Jeffry', 'Patterson,Edward E.')",1
+260,"('Howbert,J. Jeffry', 'Ruedebusch,Vanessa')",1
+261,"('Howbert,J. Jeffry', 'Sheffield,W. Douglas')",1
+262,"('Howbert,J. Jeffry', 'Stead,S. Matt')",1
+263,"('Howbert,J. Jeffry', 'Sturges,Beverly')",1
+264,"('Howbert,J. Jeffry', 'Vasoli,Vincent M.')",1
+265,"('Howbert,J. Jeffry', 'Vite,Charles H.')",1
+266,"('Howbert,J. Jeffry', 'Worrell,Gregory A.')",1
+267,"('Leyde,Kent', 'Litt,Brian')",1
+268,"('Leyde,Kent', 'Mavoori,Jaideep')",1
+269,"('Leyde,Kent', 'Patterson,Edward E.')",1
+270,"('Leyde,Kent', 'Stead,S. Matt')",1
+271,"('Leyde,Kent', 'Sturges,Beverly')",1
+272,"('Leyde,Kent', 'Vasoli,Vincent M.')",1
+273,"('Leyde,Kent', 'Vite,Charles H.')",1
+274,"('Leyde,Kent', 'Worrell,Gregory A.')",1
+275,"('Litt,Brian', 'Mavoori,Jaideep')",1
+276,"('Litt,Brian', 'Patterson,Edward E.')",1
+277,"('Litt,Brian', 'Ruedebusch,Vanessa')",1
+278,"('Litt,Brian', 'Sheffield,W. Douglas')",1
+279,"('Litt,Brian', 'Stead,S. Matt')",1
+280,"('Litt,Brian', 'Sturges,Beverly')",1
+281,"('Litt,Brian', 'Vasoli,Vincent M.')",1
+282,"('Litt,Brian', 'Vite,Charles H.')",1
+283,"('Litt,Brian', 'Worrell,Gregory A.')",1
+284,"('Mavoori,Jaideep', 'Patterson,Edward E.')",1
+285,"('Mavoori,Jaideep', 'Ruedebusch,Vanessa')",1
+286,"('Mavoori,Jaideep', 'Sheffield,W. Douglas')",1
+287,"('Mavoori,Jaideep', 'Stead,S. Matt')",1
+288,"('Mavoori,Jaideep', 'Sturges,Beverly')",1
+289,"('Mavoori,Jaideep', 'Vasoli,Vincent M.')",1
+290,"('Mavoori,Jaideep', 'Vite,Charles H.')",1
+291,"('Mavoori,Jaideep', 'Worrell,Gregory A.')",1
+292,"('Patterson,Edward E.', 'Ruedebusch,Vanessa')",1
+293,"('Patterson,Edward E.', 'Sheffield,W. Douglas')",1
+294,"('Patterson,Edward E.', 'Stead,S. Matt')",1
+295,"('Patterson,Edward E.', 'Sturges,Beverly')",1
+296,"('Patterson,Edward E.', 'Vasoli,Vincent M.')",1
+297,"('Patterson,Edward E.', 'Vite,Charles H.')",1
+298,"('Patterson,Edward E.', 'Worrell,Gregory A.')",1
+299,"('Ruedebusch,Vanessa', 'Stead,S. Matt')",1
+300,"('Ruedebusch,Vanessa', 'Sturges,Beverly')",1
+301,"('Ruedebusch,Vanessa', 'Vasoli,Vincent M.')",1
+302,"('Ruedebusch,Vanessa', 'Vite,Charles H.')",1
+303,"('Ruedebusch,Vanessa', 'Worrell,Gregory A.')",1
+304,"('Sheffield,W. Douglas', 'Stead,S. Matt')",1
+305,"('Sheffield,W. Douglas', 'Sturges,Beverly')",1
+306,"('Sheffield,W. Douglas', 'Vasoli,Vincent M.')",1
+307,"('Sheffield,W. Douglas', 'Vite,Charles H.')",1
+308,"('Sheffield,W. Douglas', 'Worrell,Gregory A.')",1
+309,"('Stead,S. Matt', 'Sturges,Beverly')",1
+310,"('Stead,S. Matt', 'Vasoli,Vincent M.')",1
+311,"('Stead,S. Matt', 'Vite,Charles H.')",1
+312,"('Stead,S. Matt', 'Worrell,Gregory A.')",1
+313,"('Sturges,Beverly', 'Vasoli,Vincent M.')",1
+314,"('Sturges,Beverly', 'Vite,Charles H.')",1
+315,"('Sturges,Beverly', 'Worrell,Gregory A.')",1
+316,"('Vasoli,Vincent M.', 'Vite,Charles H.')",1
+317,"('Vasoli,Vincent M.', 'Worrell,Gregory A.')",1
+318,"('Vite,Charles H.', 'Worrell,Gregory A.')",1
+319,"('Bridges,John F. P.', 'Dumanis,Sonya B.')",1
+320,"('Bridges,John F. P.', 'Fureman,Brandy E.')",1
+321,"('Bridges,John F. P.', 'Huwig,Tanya')",1
+322,"('Bridges,John F. P.', 'Hyman,Sarah')",1
+323,"('Bridges,John F. P.', 'Janse,Sarah A.')",1
+324,"('Dumanis,Sonya B.', 'Huwig,Tanya')",1
+325,"('Dumanis,Sonya B.', 'Hyman,Sarah')",1
+326,"('Dumanis,Sonya B.', 'Janse,Sarah A.')",1
+327,"('Fureman,Brandy E.', 'Huwig,Tanya')",1
+328,"('Fureman,Brandy E.', 'Hyman,Sarah')",1
+329,"('Fureman,Brandy E.', 'Janse,Sarah A.')",1
+330,"('Huwig,Tanya', 'Hyman,Sarah')",1
+331,"('Huwig,Tanya', 'Janse,Sarah A.')",1
+332,"('Hyman,Sarah', 'Janse,Sarah A.')",1
+333,"('Altenmuller,D. -M.', 'Brandt,A.')",1
+334,"('Altenmuller,D. -M.', 'Feldwisch-Drentrup,Hinnerk')",1
+335,"('Altenmuller,D. -M.', 'Jachan,M.')",1
+336,"('Altenmuller,D. -M.', 'Posdziech,F.')",1
+337,"('Altenmuller,D. -M.', 'Schelter,Bjorn')",1
+338,"('Altenmuller,D. -M.', 'Schulze-Bonhage,Andreas')",1
+339,"('Altenmuller,D. -M.', 'Timmer,Jens')",1
+340,"('Brandt,A.', 'Feldwisch-Drentrup,Hinnerk')",1
+341,"('Brandt,A.', 'Jachan,M.')",1
+342,"('Brandt,A.', 'Posdziech,F.')",1
+343,"('Brandt,A.', 'Schelter,Bjorn')",1
+344,"('Brandt,A.', 'Schulze-Bonhage,Andreas')",1
+345,"('Brandt,A.', 'Timmer,Jens')",1
+346,"('Feldwisch-Drentrup,Hinnerk', 'Jachan,M.')",1
+347,"('Feldwisch-Drentrup,Hinnerk', 'Posdziech,F.')",1
+348,"('Feldwisch-Drentrup,Hinnerk', 'Schelter,Bjorn')",1
+349,"('Feldwisch-Drentrup,Hinnerk', 'Schulze-Bonhage,Andreas')",1
+350,"('Feldwisch-Drentrup,Hinnerk', 'Timmer,Jens')",1
+351,"('Jachan,M.', 'Posdziech,F.')",1
+352,"('Jachan,M.', 'Schelter,Bjorn')",1
+353,"('Jachan,M.', 'Schulze-Bonhage,Andreas')",1
+354,"('Jachan,M.', 'Timmer,Jens')",1
+355,"('Posdziech,F.', 'Schelter,Bjorn')",1
+356,"('Posdziech,F.', 'Schulze-Bonhage,Andreas')",1
+357,"('Posdziech,F.', 'Timmer,Jens')",1
+358,"('Schelter,Bjorn', 'Schulze-Bonhage,Andreas')",1
+359,"('Schelter,Bjorn', 'Timmer,Jens')",1
+360,"('Schulze-Bonhage,Andreas', 'Timmer,Jens')",1
+361,"('Cook,Mark J.', 'Grayden,David B.')",7
+362,"('Cook,Mark J.', 'Kuhlmann,Levin')",3
+363,"('Cook,Mark J.', 'Ung,Hoameng')",1
+364,"('Freestone,Dean R.', 'Grayden,David B.')",6
+365,"('Freestone,Dean R.', 'Kuhlmann,Levin')",3
+366,"('Freestone,Dean R.', 'Leyde,Kent')",1
+367,"('Freestone,Dean R.', 'Ung,Hoameng')",1
+368,"('Grayden,David B.', 'Karoly,Philippa J.')",7
+369,"('Grayden,David B.', 'Kuhlmann,Levin')",3
+370,"('Grayden,David B.', 'Leyde,Kent')",1
+371,"('Grayden,David B.', 'Ung,Hoameng')",1
+372,"('Karoly,Philippa J.', 'Kuhlmann,Levin')",3
+373,"('Karoly,Philippa J.', 'Leyde,Kent')",1
+374,"('Karoly,Philippa J.', 'Ung,Hoameng')",1
+375,"('Kuhlmann,Levin', 'Leyde,Kent')",1
+376,"('Kuhlmann,Levin', 'Ung,Hoameng')",1
+377,"('Leyde,Kent', 'Ung,Hoameng')",1
+378,"('Brinkmann,Benjamin H.', 'Cook,Mark J.')",5
+379,"('Brinkmann,Benjamin H.', 'Dumanis,Sonya B.')",4
+380,"('Brinkmann,Benjamin H.', 'Freestone,Dean R.')",6
+381,"('Brinkmann,Benjamin H.', 'Grayden,David B.')",3
+382,"('Brinkmann,Benjamin H.', 'Karoly,Philippa J.')",5
+383,"('Brinkmann,Benjamin H.', 'Kuhlmann,Levin')",1
+384,"('Brinkmann,Benjamin H.', 'Maturana,Matias I.')",1
+385,"('Brinkmann,Benjamin H.', 'Nurse,Ewan S.')",6
+386,"('Brinkmann,Benjamin H.', 'Payne,Daniel E.')",2
+387,"('Brinkmann,Benjamin H.', 'Richardson,Mark P.')",6
+388,"('Brinkmann,Benjamin H.', 'Schulze-Bonhage,Andreas')",3
+389,"('Cook,Mark J.', 'Dumanis,Sonya B.')",3
+390,"('Cook,Mark J.', 'Maturana,Matias I.')",1
+391,"('Cook,Mark J.', 'Nurse,Ewan S.')",6
+392,"('Cook,Mark J.', 'Payne,Daniel E.')",3
+393,"('Cook,Mark J.', 'Richardson,Mark P.')",5
+394,"('Cook,Mark J.', 'Schulze-Bonhage,Andreas')",2
+395,"('Cook,Mark J.', 'Worrell,Gregory A.')",3
+396,"('Dumanis,Sonya B.', 'Freestone,Dean R.')",4
+397,"('Dumanis,Sonya B.', 'Grayden,David B.')",1
+398,"('Dumanis,Sonya B.', 'Karoly,Philippa J.')",3
+399,"('Dumanis,Sonya B.', 'Kuhlmann,Levin')",1
+400,"('Dumanis,Sonya B.', 'Maturana,Matias I.')",1
+401,"('Dumanis,Sonya B.', 'Nurse,Ewan S.')",4
+402,"('Dumanis,Sonya B.', 'Payne,Daniel E.')",1
+403,"('Dumanis,Sonya B.', 'Richardson,Mark P.')",4
+404,"('Dumanis,Sonya B.', 'Schulze-Bonhage,Andreas')",3
+405,"('Freestone,Dean R.', 'Maturana,Matias I.')",1
+406,"('Freestone,Dean R.', 'Nurse,Ewan S.')",6
+407,"('Freestone,Dean R.', 'Payne,Daniel E.')",3
+408,"('Freestone,Dean R.', 'Richardson,Mark P.')",6
+409,"('Freestone,Dean R.', 'Schulze-Bonhage,Andreas')",3
+410,"('Freestone,Dean R.', 'Worrell,Gregory A.')",3
+411,"('Grayden,David B.', 'Maturana,Matias I.')",1
+412,"('Grayden,David B.', 'Nurse,Ewan S.')",3
+413,"('Grayden,David B.', 'Payne,Daniel E.')",3
+414,"('Grayden,David B.', 'Richardson,Mark P.')",3
+415,"('Grayden,David B.', 'Schulze-Bonhage,Andreas')",1
+416,"('Grayden,David B.', 'Worrell,Gregory A.')",2
+417,"('Karoly,Philippa J.', 'Maturana,Matias I.')",1
+418,"('Karoly,Philippa J.', 'Nurse,Ewan S.')",5
+419,"('Karoly,Philippa J.', 'Payne,Daniel E.')",3
+420,"('Karoly,Philippa J.', 'Richardson,Mark P.')",5
+421,"('Karoly,Philippa J.', 'Schulze-Bonhage,Andreas')",2
+422,"('Karoly,Philippa J.', 'Worrell,Gregory A.')",3
+423,"('Kuhlmann,Levin', 'Maturana,Matias I.')",1
+424,"('Kuhlmann,Levin', 'Nurse,Ewan S.')",1
+425,"('Kuhlmann,Levin', 'Payne,Daniel E.')",2
+426,"('Kuhlmann,Levin', 'Richardson,Mark P.')",1
+427,"('Kuhlmann,Levin', 'Schulze-Bonhage,Andreas')",1
+428,"('Kuhlmann,Levin', 'Worrell,Gregory A.')",2
+429,"('Maturana,Matias I.', 'Nurse,Ewan S.')",1
+430,"('Maturana,Matias I.', 'Payne,Daniel E.')",1
+431,"('Maturana,Matias I.', 'Richardson,Mark P.')",1
+432,"('Maturana,Matias I.', 'Schulze-Bonhage,Andreas')",1
+433,"('Maturana,Matias I.', 'Worrell,Gregory A.')",1
+434,"('Nurse,Ewan S.', 'Payne,Daniel E.')",2
+435,"('Nurse,Ewan S.', 'Richardson,Mark P.')",6
+436,"('Nurse,Ewan S.', 'Schulze-Bonhage,Andreas')",3
+437,"('Nurse,Ewan S.', 'Worrell,Gregory A.')",2
+438,"('Payne,Daniel E.', 'Richardson,Mark P.')",2
+439,"('Payne,Daniel E.', 'Schulze-Bonhage,Andreas')",1
+440,"('Payne,Daniel E.', 'Worrell,Gregory A.')",2
+441,"('Richardson,Mark P.', 'Schulze-Bonhage,Andreas')",3
+442,"('Richardson,Mark P.', 'Worrell,Gregory A.')",2
+443,"('Schulze-Bonhage,Andreas', 'Worrell,Gregory A.')",2
+444,"('Cook,Mark J.', 'Goldenholz,Daniel M.')",1
+445,"('Cook,Mark J.', 'Moss,Robert E.')",1
+446,"('Cook,Mark J.', 'Theodore,William H.')",1
+447,"('Freestone,Dean R.', 'Goldenholz,Daniel M.')",1
+448,"('Freestone,Dean R.', 'Moss,Robert E.')",1
+449,"('Freestone,Dean R.', 'Theodore,William H.')",1
+450,"('Goldenholz,Daniel M.', 'Grayden,David B.')",1
+451,"('Goldenholz,Daniel M.', 'Karoly,Philippa J.')",1
+452,"('Goldenholz,Daniel M.', 'Theodore,William H.')",1
+453,"('Grayden,David B.', 'Moss,Robert E.')",1
+454,"('Grayden,David B.', 'Theodore,William H.')",1
+455,"('Karoly,Philippa J.', 'Moss,Robert E.')",1
+456,"('Karoly,Philippa J.', 'Theodore,William H.')",1
+457,"('Moss,Robert E.', 'Theodore,William H.')",1
+458,"('Brinkmann,Benjamin H.', 'Eden,Dominique')",1
+459,"('Brinkmann,Benjamin H.', 'Taylor,Janelle')",1
+460,"('Cook,Mark J.', 'Eden,Dominique')",1
+461,"('Cook,Mark J.', 'Taylor,Janelle')",1
+462,"('Dumanis,Sonya B.', 'Eden,Dominique')",1
+463,"('Dumanis,Sonya B.', 'Taylor,Janelle')",1
+464,"('Eden,Dominique', 'Freestone,Dean R.')",1
+465,"('Eden,Dominique', 'Karoly,Philippa J.')",1
+466,"('Eden,Dominique', 'Nurse,Ewan S.')",1
+467,"('Eden,Dominique', 'Richardson,Mark P.')",1
+468,"('Eden,Dominique', 'Taylor,Janelle')",1
+469,"('Freestone,Dean R.', 'Taylor,Janelle')",1
+470,"('Karoly,Philippa J.', 'Taylor,Janelle')",1
+471,"('Nurse,Ewan S.', 'Taylor,Janelle')",1
+472,"('Richardson,Mark P.', 'Taylor,Janelle')",1
+473,"('Cook,Mark J.', 'Dell,Katrina L.')",1
+474,"('Cook,Mark J.', 'Gerla,Vaclav')",1
+475,"('Cook,Mark J.', 'Kremen,Vaclav')",1
+476,"('Dell,Katrina L.', 'Freestone,Dean R.')",1
+477,"('Dell,Katrina L.', 'Gerla,Vaclav')",1
+478,"('Dell,Katrina L.', 'Grayden,David B.')",1
+479,"('Dell,Katrina L.', 'Karoly,Philippa J.')",1
+480,"('Dell,Katrina L.', 'Kremen,Vaclav')",1
+481,"('Dell,Katrina L.', 'Kuhlmann,Levin')",1
+482,"('Dell,Katrina L.', 'Payne,Daniel E.')",1
+483,"('Dell,Katrina L.', 'Worrell,Gregory A.')",1
+484,"('Freestone,Dean R.', 'Gerla,Vaclav')",1
+485,"('Freestone,Dean R.', 'Kremen,Vaclav')",1
+486,"('Gerla,Vaclav', 'Grayden,David B.')",1
+487,"('Gerla,Vaclav', 'Karoly,Philippa J.')",1
+488,"('Gerla,Vaclav', 'Kremen,Vaclav')",1
+489,"('Gerla,Vaclav', 'Kuhlmann,Levin')",1
+490,"('Gerla,Vaclav', 'Payne,Daniel E.')",1
+491,"('Gerla,Vaclav', 'Worrell,Gregory A.')",1
+492,"('Grayden,David B.', 'Kremen,Vaclav')",1
+493,"('Karoly,Philippa J.', 'Kremen,Vaclav')",1
+494,"('Kremen,Vaclav', 'Kuhlmann,Levin')",1
+495,"('Kremen,Vaclav', 'Payne,Daniel E.')",1
+496,"('Kremen,Vaclav', 'Worrell,Gregory A.')",2
+497,"('Brinkmann,Benjamin H.', 'Cimbalnik,Jan')",1
+498,"('Brinkmann,Benjamin H.', 'Guragain,Hari')",1
+499,"('Brinkmann,Benjamin H.', 'Klimes,Petr')",1
+500,"('Brinkmann,Benjamin H.', 'Kremen,Vaclav')",1
+501,"('Brinkmann,Benjamin H.', 'Nasseri,Mona')",2
+502,"('Brinkmann,Benjamin H.', 'Nejedly,Petr')",1
+503,"('Brinkmann,Benjamin H.', 'Sladky,Vladimir')",1
+504,"('Brinkmann,Benjamin H.', 'Varatharajah,Yogatheesan')",2
+505,"('Cimbalnik,Jan', 'Guragain,Hari')",1
+506,"('Cimbalnik,Jan', 'Klimes,Petr')",1
+507,"('Cimbalnik,Jan', 'Kremen,Vaclav')",1
+508,"('Cimbalnik,Jan', 'Nasseri,Mona')",1
+509,"('Cimbalnik,Jan', 'Nejedly,Petr')",1
+510,"('Cimbalnik,Jan', 'Sladky,Vladimir')",1
+511,"('Cimbalnik,Jan', 'Varatharajah,Yogatheesan')",1
+512,"('Cimbalnik,Jan', 'Worrell,Gregory A.')",1
+513,"('Guragain,Hari', 'Klimes,Petr')",1
+514,"('Guragain,Hari', 'Kremen,Vaclav')",1
+515,"('Guragain,Hari', 'Nasseri,Mona')",1
+516,"('Guragain,Hari', 'Nejedly,Petr')",1
+517,"('Guragain,Hari', 'Sladky,Vladimir')",1
+518,"('Guragain,Hari', 'Varatharajah,Yogatheesan')",1
+519,"('Guragain,Hari', 'Worrell,Gregory A.')",1
+520,"('Klimes,Petr', 'Kremen,Vaclav')",1
+521,"('Klimes,Petr', 'Nasseri,Mona')",1
+522,"('Klimes,Petr', 'Nejedly,Petr')",1
+523,"('Klimes,Petr', 'Sladky,Vladimir')",1
+524,"('Klimes,Petr', 'Varatharajah,Yogatheesan')",1
+525,"('Klimes,Petr', 'Worrell,Gregory A.')",1
+526,"('Kremen,Vaclav', 'Nasseri,Mona')",1
+527,"('Kremen,Vaclav', 'Nejedly,Petr')",1
+528,"('Kremen,Vaclav', 'Sladky,Vladimir')",1
+529,"('Kremen,Vaclav', 'Varatharajah,Yogatheesan')",1
+530,"('Nasseri,Mona', 'Nejedly,Petr')",1
+531,"('Nasseri,Mona', 'Sladky,Vladimir')",1
+532,"('Nasseri,Mona', 'Varatharajah,Yogatheesan')",1
+533,"('Nasseri,Mona', 'Worrell,Gregory A.')",2
+534,"('Nejedly,Petr', 'Sladky,Vladimir')",1
+535,"('Nejedly,Petr', 'Varatharajah,Yogatheesan')",1
+536,"('Nejedly,Petr', 'Worrell,Gregory A.')",1
+537,"('Sladky,Vladimir', 'Varatharajah,Yogatheesan')",1
+538,"('Sladky,Vladimir', 'Worrell,Gregory A.')",1
+539,"('Varatharajah,Yogatheesan', 'Worrell,Gregory A.')",2
+540,"('Kockler,Michael', 'Rakers,Florian')",1
+541,"('Kockler,Michael', 'Rasche,Marius')",1
+542,"('Kockler,Michael', 'Rupprecht,Sven')",1
+543,"('Kockler,Michael', 'Schiffner,Rene')",1
+544,"('Kockler,Michael', 'Schlattmann,Peter')",1
+545,"('Kockler,Michael', 'Schwab,Matthias')",1
+546,"('Kockler,Michael', 'Walther,Mario')",1
+547,"('Kockler,Michael', 'Witte,Otto W.')",1
+548,"('Rakers,Florian', 'Rasche,Marius')",1
+549,"('Rakers,Florian', 'Rupprecht,Sven')",1
+550,"('Rakers,Florian', 'Schiffner,Rene')",1
+551,"('Rakers,Florian', 'Schlattmann,Peter')",1
+552,"('Rakers,Florian', 'Schwab,Matthias')",1
+553,"('Rakers,Florian', 'Walther,Mario')",1
+554,"('Rakers,Florian', 'Witte,Otto W.')",1
+555,"('Rasche,Marius', 'Rupprecht,Sven')",1
+556,"('Rasche,Marius', 'Schiffner,Rene')",1
+557,"('Rasche,Marius', 'Schlattmann,Peter')",1
+558,"('Rasche,Marius', 'Schwab,Matthias')",1
+559,"('Rasche,Marius', 'Walther,Mario')",1
+560,"('Rasche,Marius', 'Witte,Otto W.')",1
+561,"('Rupprecht,Sven', 'Schiffner,Rene')",1
+562,"('Rupprecht,Sven', 'Schlattmann,Peter')",1
+563,"('Rupprecht,Sven', 'Schwab,Matthias')",1
+564,"('Rupprecht,Sven', 'Walther,Mario')",1
+565,"('Rupprecht,Sven', 'Witte,Otto W.')",1
+566,"('Schiffner,Rene', 'Schlattmann,Peter')",1
+567,"('Schiffner,Rene', 'Schwab,Matthias')",1
+568,"('Schiffner,Rene', 'Walther,Mario')",1
+569,"('Schiffner,Rene', 'Witte,Otto W.')",1
+570,"('Schlattmann,Peter', 'Schwab,Matthias')",1
+571,"('Schlattmann,Peter', 'Walther,Mario')",1
+572,"('Schlattmann,Peter', 'Witte,Otto W.')",1
+573,"('Schwab,Matthias', 'Walther,Mario')",1
+574,"('Schwab,Matthias', 'Witte,Otto W.')",1
+575,"('Walther,Mario', 'Witte,Otto W.')",1
+576,"('Carius,Astrid', 'Ihle,Matthias')",1
+577,"('Carius,Astrid', 'Sales,Francisco')",1
+578,"('Carius,Astrid', 'Schelle,Annette')",1
+579,"('Carius,Astrid', 'Schulze-Bonhage,Andreas')",1
+580,"('Carius,Astrid', 'Teotonio,Rute')",1
+581,"('Carius,Astrid', 'Wagner,Kathrin')",1
+582,"('Ihle,Matthias', 'Sales,Francisco')",1
+583,"('Ihle,Matthias', 'Schelle,Annette')",1
+584,"('Ihle,Matthias', 'Schulze-Bonhage,Andreas')",1
+585,"('Ihle,Matthias', 'Teotonio,Rute')",1
+586,"('Ihle,Matthias', 'Wagner,Kathrin')",1
+587,"('Sales,Francisco', 'Schelle,Annette')",1
+588,"('Sales,Francisco', 'Schulze-Bonhage,Andreas')",1
+589,"('Sales,Francisco', 'Teotonio,Rute')",1
+590,"('Sales,Francisco', 'Wagner,Kathrin')",1
+591,"('Schelle,Annette', 'Schulze-Bonhage,Andreas')",1
+592,"('Schelle,Annette', 'Teotonio,Rute')",1
+593,"('Schelle,Annette', 'Wagner,Kathrin')",1
+594,"('Schulze-Bonhage,Andreas', 'Teotonio,Rute')",1
+595,"('Schulze-Bonhage,Andreas', 'Wagner,Kathrin')",1
+596,"('Teotonio,Rute', 'Wagner,Kathrin')",1
+597,"('Martins da Silva,Antonio', 'Sammaritano,Michele')",1
+598,"('Martins da Silva,Antonio', 'Shouse,Margaret N.')",1
+599,"('Sammaritano,Michele', 'Shouse,Margaret N.')",1
+600,"('Baud,Maxime O.', 'Leguia,Marc G')",1
+601,"('Baud,Maxime O.', 'Proix,Timothee')",2
+602,"('Baud,Maxime O.', 'Tcheng,Thomas K')",1
+603,"('Baud,Maxime O.', 'Truccolo,Wilson')",1
+604,"('King-Stephens,David', 'Leguia,Marc G')",1
+605,"('King-Stephens,David', 'Proix,Timothee')",1
+606,"('King-Stephens,David', 'Tcheng,Thomas K')",1
+607,"('King-Stephens,David', 'Truccolo,Wilson')",1
+608,"('Leguia,Marc G', 'Proix,Timothee')",1
+609,"('Leguia,Marc G', 'Rao,Vikram R.')",1
+610,"('Leguia,Marc G', 'Tcheng,Thomas K')",1
+611,"('Leguia,Marc G', 'Truccolo,Wilson')",1
+612,"('Proix,Timothee', 'Rao,Vikram R.')",2
+613,"('Proix,Timothee', 'Tcheng,Thomas K')",1
+614,"('Proix,Timothee', 'Truccolo,Wilson')",1
+615,"('Rao,Vikram R.', 'Tcheng,Thomas K')",1
+616,"('Rao,Vikram R.', 'Truccolo,Wilson')",1
+617,"('Tcheng,Thomas K', 'Truccolo,Wilson')",1
+618,"('Cook,Mark J.', 'Stirling,Rachel E.')",3
+619,"('Grayden,David B.', 'Stirling,Rachel E.')",3
+620,"('Karoly,Philippa J.', 'Stirling,Rachel E.')",3
+621,"('Brinkmann,Benjamin H.', 'Bulluss,K. J.')",1
+622,"('Brinkmann,Benjamin H.', 'Cameron,T. L.')",1
+623,"('Brinkmann,Benjamin H.', ""D'Souza,Wendyl"")",2
+624,"('Brinkmann,Benjamin H.', 'Heasman,J.')",1
+625,"('Brinkmann,Benjamin H.', 'Hoare,R. J.')",1
+626,"('Brinkmann,Benjamin H.', 'Lai,A.')",1
+627,"('Brinkmann,Benjamin H.', 'McCutcheon,K.')",1
+628,"('Brinkmann,Benjamin H.', 'McLean,K. J.')",1
+629,"('Brinkmann,Benjamin H.', 'Murphy,Michael')",1
+630,"('Brinkmann,Benjamin H.', 'Mutarana,M. I.')",1
+631,"('Brinkmann,Benjamin H.', 'Ringo,S. G.')",1
+632,"('Brinkmann,Benjamin H.', 'Seiderer,L.')",1
+633,"('Brinkmann,Benjamin H.', 'Seneviratne,U.')",1
+634,"('Brinkmann,Benjamin H.', 'Stirling,Rachel E.')",2
+635,"('Bulluss,K. J.', 'Cameron,T. L.')",1
+636,"('Bulluss,K. J.', 'Cook,Mark J.')",1
+637,"('Bulluss,K. J.', ""D'Souza,Wendyl"")",1
+638,"('Bulluss,K. J.', 'Freestone,Dean R.')",1
+639,"('Bulluss,K. J.', 'Grayden,David B.')",1
+640,"('Bulluss,K. J.', 'Heasman,J.')",1
+641,"('Bulluss,K. J.', 'Hoare,R. J.')",1
+642,"('Bulluss,K. J.', 'Karoly,Philippa J.')",1
+643,"('Bulluss,K. J.', 'Lai,A.')",1
+644,"('Bulluss,K. J.', 'McCutcheon,K.')",1
+645,"('Bulluss,K. J.', 'McLean,K. J.')",1
+646,"('Bulluss,K. J.', 'Murphy,Michael')",1
+647,"('Bulluss,K. J.', 'Mutarana,M. I.')",1
+648,"('Bulluss,K. J.', 'Nurse,Ewan S.')",1
+649,"('Bulluss,K. J.', 'Richardson,Mark P.')",1
+650,"('Bulluss,K. J.', 'Ringo,S. G.')",1
+651,"('Bulluss,K. J.', 'Seiderer,L.')",1
+652,"('Bulluss,K. J.', 'Seneviratne,U.')",1
+653,"('Bulluss,K. J.', 'Stirling,Rachel E.')",1
+654,"('Cameron,T. L.', 'Cook,Mark J.')",1
+655,"('Cameron,T. L.', ""D'Souza,Wendyl"")",1
+656,"('Cameron,T. L.', 'Freestone,Dean R.')",1
+657,"('Cameron,T. L.', 'Grayden,David B.')",1
+658,"('Cameron,T. L.', 'Heasman,J.')",1
+659,"('Cameron,T. L.', 'Hoare,R. J.')",1
+660,"('Cameron,T. L.', 'Karoly,Philippa J.')",1
+661,"('Cameron,T. L.', 'Lai,A.')",1
+662,"('Cameron,T. L.', 'McCutcheon,K.')",1
+663,"('Cameron,T. L.', 'McLean,K. J.')",1
+664,"('Cameron,T. L.', 'Murphy,Michael')",1
+665,"('Cameron,T. L.', 'Mutarana,M. I.')",1
+666,"('Cameron,T. L.', 'Nurse,Ewan S.')",1
+667,"('Cameron,T. L.', 'Richardson,Mark P.')",1
+668,"('Cameron,T. L.', 'Ringo,S. G.')",1
+669,"('Cameron,T. L.', 'Seiderer,L.')",1
+670,"('Cameron,T. L.', 'Seneviratne,U.')",1
+671,"('Cameron,T. L.', 'Stirling,Rachel E.')",1
+672,"('Cook,Mark J.', 'Heasman,J.')",1
+673,"('Cook,Mark J.', 'Hoare,R. J.')",1
+674,"('Cook,Mark J.', 'Lai,A.')",1
+675,"('Cook,Mark J.', 'McCutcheon,K.')",1
+676,"('Cook,Mark J.', 'McLean,K. J.')",1
+677,"('Cook,Mark J.', 'Mutarana,M. I.')",1
+678,"('Cook,Mark J.', 'Ringo,S. G.')",1
+679,"('Cook,Mark J.', 'Seiderer,L.')",1
+680,"('Cook,Mark J.', 'Seneviratne,U.')",1
+681,"(""D'Souza,Wendyl"", 'Freestone,Dean R.')",2
+682,"(""D'Souza,Wendyl"", 'Grayden,David B.')",2
+683,"(""D'Souza,Wendyl"", 'Heasman,J.')",1
+684,"(""D'Souza,Wendyl"", 'Hoare,R. J.')",1
+685,"(""D'Souza,Wendyl"", 'Karoly,Philippa J.')",2
+686,"(""D'Souza,Wendyl"", 'Lai,A.')",1
+687,"(""D'Souza,Wendyl"", 'McCutcheon,K.')",1
+688,"(""D'Souza,Wendyl"", 'McLean,K. J.')",1
+689,"(""D'Souza,Wendyl"", 'Mutarana,M. I.')",1
+690,"(""D'Souza,Wendyl"", 'Nurse,Ewan S.')",2
+691,"(""D'Souza,Wendyl"", 'Richardson,Mark P.')",2
+692,"(""D'Souza,Wendyl"", 'Ringo,S. G.')",1
+693,"(""D'Souza,Wendyl"", 'Seiderer,L.')",1
+694,"(""D'Souza,Wendyl"", 'Seneviratne,U.')",1
+695,"(""D'Souza,Wendyl"", 'Stirling,Rachel E.')",2
+696,"('Freestone,Dean R.', 'Heasman,J.')",1
+697,"('Freestone,Dean R.', 'Hoare,R. J.')",1
+698,"('Freestone,Dean R.', 'Lai,A.')",1
+699,"('Freestone,Dean R.', 'McCutcheon,K.')",1
+700,"('Freestone,Dean R.', 'McLean,K. J.')",1
+701,"('Freestone,Dean R.', 'Murphy,Michael')",1
+702,"('Freestone,Dean R.', 'Mutarana,M. I.')",1
+703,"('Freestone,Dean R.', 'Ringo,S. G.')",1
+704,"('Freestone,Dean R.', 'Seiderer,L.')",1
+705,"('Freestone,Dean R.', 'Seneviratne,U.')",1
+706,"('Freestone,Dean R.', 'Stirling,Rachel E.')",2
+707,"('Grayden,David B.', 'Heasman,J.')",1
+708,"('Grayden,David B.', 'Hoare,R. J.')",1
+709,"('Grayden,David B.', 'Lai,A.')",1
+710,"('Grayden,David B.', 'McCutcheon,K.')",1
+711,"('Grayden,David B.', 'McLean,K. J.')",1
+712,"('Grayden,David B.', 'Murphy,Michael')",1
+713,"('Grayden,David B.', 'Mutarana,M. I.')",1
+714,"('Grayden,David B.', 'Ringo,S. G.')",1
+715,"('Grayden,David B.', 'Seiderer,L.')",1
+716,"('Grayden,David B.', 'Seneviratne,U.')",1
+717,"('Heasman,J.', 'Hoare,R. J.')",1
+718,"('Heasman,J.', 'Karoly,Philippa J.')",1
+719,"('Heasman,J.', 'Lai,A.')",1
+720,"('Heasman,J.', 'McCutcheon,K.')",1
+721,"('Heasman,J.', 'McLean,K. J.')",1
+722,"('Heasman,J.', 'Murphy,Michael')",1
+723,"('Heasman,J.', 'Mutarana,M. I.')",1
+724,"('Heasman,J.', 'Nurse,Ewan S.')",1
+725,"('Heasman,J.', 'Richardson,Mark P.')",1
+726,"('Heasman,J.', 'Ringo,S. G.')",1
+727,"('Heasman,J.', 'Seiderer,L.')",1
+728,"('Heasman,J.', 'Seneviratne,U.')",1
+729,"('Heasman,J.', 'Stirling,Rachel E.')",1
+730,"('Hoare,R. J.', 'Karoly,Philippa J.')",1
+731,"('Hoare,R. J.', 'Lai,A.')",1
+732,"('Hoare,R. J.', 'McCutcheon,K.')",1
+733,"('Hoare,R. J.', 'McLean,K. J.')",1
+734,"('Hoare,R. J.', 'Murphy,Michael')",1
+735,"('Hoare,R. J.', 'Mutarana,M. I.')",1
+736,"('Hoare,R. J.', 'Nurse,Ewan S.')",1
+737,"('Hoare,R. J.', 'Richardson,Mark P.')",1
+738,"('Hoare,R. J.', 'Ringo,S. G.')",1
+739,"('Hoare,R. J.', 'Seiderer,L.')",1
+740,"('Hoare,R. J.', 'Seneviratne,U.')",1
+741,"('Hoare,R. J.', 'Stirling,Rachel E.')",1
+742,"('Karoly,Philippa J.', 'Lai,A.')",1
+743,"('Karoly,Philippa J.', 'McCutcheon,K.')",1
+744,"('Karoly,Philippa J.', 'McLean,K. J.')",1
+745,"('Karoly,Philippa J.', 'Murphy,Michael')",1
+746,"('Karoly,Philippa J.', 'Mutarana,M. I.')",1
+747,"('Karoly,Philippa J.', 'Ringo,S. G.')",1
+748,"('Karoly,Philippa J.', 'Seiderer,L.')",1
+749,"('Karoly,Philippa J.', 'Seneviratne,U.')",1
+750,"('Lai,A.', 'McCutcheon,K.')",1
+751,"('Lai,A.', 'McLean,K. J.')",1
+752,"('Lai,A.', 'Murphy,Michael')",1
+753,"('Lai,A.', 'Mutarana,M. I.')",1
+754,"('Lai,A.', 'Nurse,Ewan S.')",1
+755,"('Lai,A.', 'Richardson,Mark P.')",1
+756,"('Lai,A.', 'Ringo,S. G.')",1
+757,"('Lai,A.', 'Seiderer,L.')",1
+758,"('Lai,A.', 'Seneviratne,U.')",1
+759,"('Lai,A.', 'Stirling,Rachel E.')",1
+760,"('McCutcheon,K.', 'McLean,K. J.')",1
+761,"('McCutcheon,K.', 'Murphy,Michael')",1
+762,"('McCutcheon,K.', 'Mutarana,M. I.')",1
+763,"('McCutcheon,K.', 'Nurse,Ewan S.')",1
+764,"('McCutcheon,K.', 'Richardson,Mark P.')",1
+765,"('McCutcheon,K.', 'Ringo,S. G.')",1
+766,"('McCutcheon,K.', 'Seiderer,L.')",1
+767,"('McCutcheon,K.', 'Seneviratne,U.')",1
+768,"('McCutcheon,K.', 'Stirling,Rachel E.')",1
+769,"('McLean,K. J.', 'Murphy,Michael')",1
+770,"('McLean,K. J.', 'Mutarana,M. I.')",1
+771,"('McLean,K. J.', 'Nurse,Ewan S.')",1
+772,"('McLean,K. J.', 'Richardson,Mark P.')",1
+773,"('McLean,K. J.', 'Ringo,S. G.')",1
+774,"('McLean,K. J.', 'Seiderer,L.')",1
+775,"('McLean,K. J.', 'Seneviratne,U.')",1
+776,"('McLean,K. J.', 'Stirling,Rachel E.')",1
+777,"('Murphy,Michael', 'Mutarana,M. I.')",1
+778,"('Murphy,Michael', 'Nurse,Ewan S.')",1
+779,"('Murphy,Michael', 'Richardson,Mark P.')",1
+780,"('Murphy,Michael', 'Ringo,S. G.')",1
+781,"('Murphy,Michael', 'Seiderer,L.')",1
+782,"('Murphy,Michael', 'Seneviratne,U.')",1
+783,"('Murphy,Michael', 'Stirling,Rachel E.')",1
+784,"('Mutarana,M. I.', 'Nurse,Ewan S.')",1
+785,"('Mutarana,M. I.', 'Richardson,Mark P.')",1
+786,"('Mutarana,M. I.', 'Ringo,S. G.')",1
+787,"('Mutarana,M. I.', 'Seiderer,L.')",1
+788,"('Mutarana,M. I.', 'Seneviratne,U.')",1
+789,"('Mutarana,M. I.', 'Stirling,Rachel E.')",1
+790,"('Nurse,Ewan S.', 'Ringo,S. G.')",1
+791,"('Nurse,Ewan S.', 'Seiderer,L.')",1
+792,"('Nurse,Ewan S.', 'Seneviratne,U.')",1
+793,"('Nurse,Ewan S.', 'Stirling,Rachel E.')",2
+794,"('Richardson,Mark P.', 'Ringo,S. G.')",1
+795,"('Richardson,Mark P.', 'Seiderer,L.')",1
+796,"('Richardson,Mark P.', 'Seneviratne,U.')",1
+797,"('Richardson,Mark P.', 'Stirling,Rachel E.')",2
+798,"('Ringo,S. G.', 'Seiderer,L.')",1
+799,"('Ringo,S. G.', 'Seneviratne,U.')",1
+800,"('Ringo,S. G.', 'Stirling,Rachel E.')",1
+801,"('Seiderer,L.', 'Seneviratne,U.')",1
+802,"('Seiderer,L.', 'Stirling,Rachel E.')",1
+803,"('Seneviratne,U.', 'Stirling,Rachel E.')",1
+804,"('Davis,Gay R.', 'Temkin,Nancy R.')",1
+805,"('Attia,Tal Pal', 'Brinkmann,Benjamin H.')",1
+806,"('Attia,Tal Pal', 'Cook,Mark J.')",1
+807,"('Attia,Tal Pal', ""D'Souza,Wendyl"")",1
+808,"('Attia,Tal Pal', 'Freestone,Dean R.')",1
+809,"('Attia,Tal Pal', 'Grayden,David B.')",1
+810,"('Attia,Tal Pal', 'Karoly,Philippa J.')",1
+811,"('Attia,Tal Pal', 'Nurse,Ewan S.')",1
+812,"('Attia,Tal Pal', 'Payne,Daniel E.')",1
+813,"('Attia,Tal Pal', 'Richardson,Mark P.')",1
+814,"('Attia,Tal Pal', 'Stirling,Rachel E.')",1
+815,"('Attia,Tal Pal', 'Viana,Pedro F.')",1
+816,"('Brinkmann,Benjamin H.', 'Viana,Pedro F.')",3
+817,"('Cook,Mark J.', 'Viana,Pedro F.')",2
+818,"(""D'Souza,Wendyl"", 'Payne,Daniel E.')",1
+819,"(""D'Souza,Wendyl"", 'Viana,Pedro F.')",1
+820,"('Freestone,Dean R.', 'Viana,Pedro F.')",3
+821,"('Grayden,David B.', 'Viana,Pedro F.')",1
+822,"('Karoly,Philippa J.', 'Viana,Pedro F.')",2
+823,"('Nurse,Ewan S.', 'Viana,Pedro F.')",3
+824,"('Payne,Daniel E.', 'Stirling,Rachel E.')",1
+825,"('Payne,Daniel E.', 'Viana,Pedro F.')",1
+826,"('Richardson,Mark P.', 'Viana,Pedro F.')",3
+827,"('Stirling,Rachel E.', 'Viana,Pedro F.')",1
+828,"('Cook,Mark J.', 'Kameneva,Tatiana')",1
+829,"('Cook,Mark J.', 'Lambert,Elisabeth')",1
+830,"('Cook,Mark J.', 'Xiong,Wenjuan')",1
+831,"('Kameneva,Tatiana', 'Lambert,Elisabeth')",1
+832,"('Kameneva,Tatiana', 'Nurse,Ewan S.')",1
+833,"('Kameneva,Tatiana', 'Xiong,Wenjuan')",1
+834,"('Lambert,Elisabeth', 'Nurse,Ewan S.')",1
+835,"('Lambert,Elisabeth', 'Xiong,Wenjuan')",1
+836,"('Nurse,Ewan S.', 'Xiong,Wenjuan')",1
+837,"('Berry,Brent M.', 'Brinkmann,Benjamin H.')",1
+838,"('Berry,Brent M.', 'Iyer,Ravishankar K.')",1
+839,"('Berry,Brent M.', 'Varatharajah,Yogatheesan')",1
+840,"('Berry,Brent M.', 'Worrell,Gregory A.')",1
+841,"('Brinkmann,Benjamin H.', 'Iyer,Ravishankar K.')",1
+842,"('Iyer,Ravishankar K.', 'Varatharajah,Yogatheesan')",1
+843,"('Iyer,Ravishankar K.', 'Worrell,Gregory A.')",1
+844,"('Baud,Maxime O.', 'Schindler,Kaspar')",1
+845,"('Proix,Timothee', 'Schindler,Kaspar')",1
+846,"('Rao,Vikram R.', 'Schindler,Kaspar')",1
+847,"('Cajochen,Christian', 'Dijk,Derk-Jan')",1
+848,"('Cajochen,Christian', 'Eriksson,Sofia H.')",1
+849,"('Cajochen,Christian', 'Khan,Sofia')",1
+850,"('Cajochen,Christian', 'Khatami,Ramin')",1
+851,"('Cajochen,Christian', 'Loddenkemper,Tobias')",1
+852,"('Cajochen,Christian', 'Nobili,Lino')",1
+853,"('Dijk,Derk-Jan', 'Eriksson,Sofia H.')",1
+854,"('Dijk,Derk-Jan', 'Khan,Sofia')",1
+855,"('Dijk,Derk-Jan', 'Khatami,Ramin')",1
+856,"('Dijk,Derk-Jan', 'Loddenkemper,Tobias')",1
+857,"('Dijk,Derk-Jan', 'Nobili,Lino')",1
+858,"('Eriksson,Sofia H.', 'Khan,Sofia')",1
+859,"('Eriksson,Sofia H.', 'Khatami,Ramin')",1
+860,"('Eriksson,Sofia H.', 'Loddenkemper,Tobias')",1
+861,"('Eriksson,Sofia H.', 'Nobili,Lino')",1
+862,"('Khan,Sofia', 'Khatami,Ramin')",1
+863,"('Khan,Sofia', 'Loddenkemper,Tobias')",1
+864,"('Khan,Sofia', 'Nobili,Lino')",1
+865,"('Khatami,Ramin', 'Loddenkemper,Tobias')",1
+866,"('Khatami,Ramin', 'Nobili,Lino')",1
+867,"('Loddenkemper,Tobias', 'Nobili,Lino')",1
+868,"('Gavillet,Erika', 'Mackay,Michael')",1
+869,"('Gavillet,Erika', 'Mahlaba,Hector')",1
+870,"('Gavillet,Erika', 'Whittaker,Roger G.')",1
+871,"('Mackay,Michael', 'Mahlaba,Hector')",1
+872,"('Mackay,Michael', 'Whittaker,Roger G.')",1
+873,"('Mahlaba,Hector', 'Whittaker,Roger G.')",1
+874,"('Alexopoulos,Andreas V.', 'Gregas,Matt')",1
+875,"('Alexopoulos,Andreas V.', 'Kothare,Sanjeev V.')",1
+876,"('Alexopoulos,Andreas V.', 'Loddenkemper,Tobias')",1
+877,"('Alexopoulos,Andreas V.', 'Ramgopal,Sriram')",1
+878,"('Alexopoulos,Andreas V.', 'Rotenberg,Alexander')",1
+879,"('Alexopoulos,Andreas V.', 'Shah,Aneri')",1
+880,"('Alexopoulos,Andreas V.', 'Vendrame,Martina')",1
+881,"('Alexopoulos,Andreas V.', 'Wyllie,Elaine')",1
+882,"('Alexopoulos,Andreas V.', 'Zarowski,Marcin')",1
+883,"('Gregas,Matt', 'Kothare,Sanjeev V.')",1
+884,"('Gregas,Matt', 'Loddenkemper,Tobias')",1
+885,"('Gregas,Matt', 'Ramgopal,Sriram')",1
+886,"('Gregas,Matt', 'Rotenberg,Alexander')",1
+887,"('Gregas,Matt', 'Shah,Aneri')",1
+888,"('Gregas,Matt', 'Vendrame,Martina')",1
+889,"('Gregas,Matt', 'Wyllie,Elaine')",1
+890,"('Gregas,Matt', 'Zarowski,Marcin')",1
+891,"('Kothare,Sanjeev V.', 'Loddenkemper,Tobias')",1
+892,"('Kothare,Sanjeev V.', 'Ramgopal,Sriram')",1
+893,"('Kothare,Sanjeev V.', 'Rotenberg,Alexander')",1
+894,"('Kothare,Sanjeev V.', 'Shah,Aneri')",1
+895,"('Kothare,Sanjeev V.', 'Vendrame,Martina')",1
+896,"('Kothare,Sanjeev V.', 'Wyllie,Elaine')",1
+897,"('Kothare,Sanjeev V.', 'Zarowski,Marcin')",1
+898,"('Loddenkemper,Tobias', 'Ramgopal,Sriram')",1
+899,"('Loddenkemper,Tobias', 'Rotenberg,Alexander')",1
+900,"('Loddenkemper,Tobias', 'Shah,Aneri')",1
+901,"('Loddenkemper,Tobias', 'Vendrame,Martina')",1
+902,"('Loddenkemper,Tobias', 'Wyllie,Elaine')",1
+903,"('Loddenkemper,Tobias', 'Zarowski,Marcin')",1
+904,"('Ramgopal,Sriram', 'Rotenberg,Alexander')",1
+905,"('Ramgopal,Sriram', 'Shah,Aneri')",1
+906,"('Ramgopal,Sriram', 'Vendrame,Martina')",1
+907,"('Ramgopal,Sriram', 'Wyllie,Elaine')",1
+908,"('Ramgopal,Sriram', 'Zarowski,Marcin')",1
+909,"('Rotenberg,Alexander', 'Shah,Aneri')",1
+910,"('Rotenberg,Alexander', 'Vendrame,Martina')",1
+911,"('Rotenberg,Alexander', 'Wyllie,Elaine')",1
+912,"('Rotenberg,Alexander', 'Zarowski,Marcin')",1
+913,"('Shah,Aneri', 'Vendrame,Martina')",1
+914,"('Shah,Aneri', 'Wyllie,Elaine')",1
+915,"('Shah,Aneri', 'Zarowski,Marcin')",1
+916,"('Vendrame,Martina', 'Wyllie,Elaine')",1
+917,"('Vendrame,Martina', 'Zarowski,Marcin')",1
+918,"('Wyllie,Elaine', 'Zarowski,Marcin')",1
+919,"('Smyk,Magdalena K.', 'van Luijtelaar,Gilles')",1
+920,"('Kavehei,Omid', 'Kuhlmann,Levin')",1
+921,"('Kavehei,Omid', 'Maher,Christina')",1
+922,"('Kavehei,Omid', 'McEwan,Alistair')",1
+923,"('Kavehei,Omid', 'Nikpour,Armin')",1
+924,"('Kavehei,Omid', 'Truong,Nhan D.')",1
+925,"('Kavehei,Omid', 'Yang,Yikai')",1
+926,"('Kuhlmann,Levin', 'Maher,Christina')",1
+927,"('Kuhlmann,Levin', 'McEwan,Alistair')",1
+928,"('Kuhlmann,Levin', 'Nikpour,Armin')",1
+929,"('Kuhlmann,Levin', 'Truong,Nhan D.')",1
+930,"('Kuhlmann,Levin', 'Yang,Yikai')",1
+931,"('Maher,Christina', 'McEwan,Alistair')",1
+932,"('Maher,Christina', 'Nikpour,Armin')",1
+933,"('Maher,Christina', 'Truong,Nhan D.')",1
+934,"('Maher,Christina', 'Yang,Yikai')",1
+935,"('McEwan,Alistair', 'Nikpour,Armin')",1
+936,"('McEwan,Alistair', 'Truong,Nhan D.')",1
+937,"('McEwan,Alistair', 'Yang,Yikai')",1
+938,"('Nikpour,Armin', 'Truong,Nhan D.')",1
+939,"('Nikpour,Armin', 'Yang,Yikai')",1
+940,"('Truong,Nhan D.', 'Yang,Yikai')",1
+941,"('Cook,Mark J.', 'Nasseri,Mona')",1
+942,"('Dumanis,Sonya B.', 'Nasseri,Mona')",1
+943,"('Dumanis,Sonya B.', 'Viana,Pedro F.')",2
+944,"('Freestone,Dean R.', 'Nasseri,Mona')",1
+945,"('Karoly,Philippa J.', 'Nasseri,Mona')",1
+946,"('Nasseri,Mona', 'Nurse,Ewan S.')",1
+947,"('Nasseri,Mona', 'Richardson,Mark P.')",1
+948,"('Nasseri,Mona', 'Schulze-Bonhage,Andreas')",1
+949,"('Nasseri,Mona', 'Viana,Pedro F.')",1
+950,"('Schulze-Bonhage,Andreas', 'Viana,Pedro F.')",2
+951,"('Viana,Pedro F.', 'Worrell,Gregory A.')",1
+952,"('Chiang,Sharon', 'Goldenholz,Daniel M.')",1
+953,"('Chiang,Sharon', 'Stern,John M.')",1
+954,"('Chiang,Sharon', 'Vannucci,Marina')",1
+955,"('Goldenholz,Daniel M.', 'Stern,John M.')",1
+956,"('Goldenholz,Daniel M.', 'Vannucci,Marina')",1
+957,"('Moss,Robert E.', 'Stern,John M.')",1
+958,"('Moss,Robert E.', 'Vannucci,Marina')",1
+959,"('Stern,John M.', 'Vannucci,Marina')",1
+960,"('Hunziker,Patrick', 'Marsch,Stephan')",1
+961,"('Hunziker,Patrick', 'Ruegg,Stephan')",1
+962,"('Hunziker,Patrick', 'Schindler,Christian')",1
+963,"('Marsch,Stephan', 'Ruegg,Stephan')",1
+964,"('Marsch,Stephan', 'Schindler,Christian')",1
+965,"('Ruegg,Stephan', 'Schindler,Christian')",1
+966,"('Brinkmann,Benjamin H.', 'Dumpelmann,Matthias')",1
+967,"('Brinkmann,Benjamin H.', 'Dunn-Henriksen,Jonas')",1
+968,"('Brinkmann,Benjamin H.', 'Glasseter,Martin')",1
+969,"('Brinkmann,Benjamin H.', 'Martins,Isabel P.')",1
+970,"('Dumanis,Sonya B.', 'Dumpelmann,Matthias')",1
+971,"('Dumanis,Sonya B.', 'Dunn-Henriksen,Jonas')",1
+972,"('Dumanis,Sonya B.', 'Glasseter,Martin')",1
+973,"('Dumanis,Sonya B.', 'Martins,Isabel P.')",1
+974,"('Dumpelmann,Matthias', 'Dunn-Henriksen,Jonas')",1
+975,"('Dumpelmann,Matthias', 'Freestone,Dean R.')",1
+976,"('Dumpelmann,Matthias', 'Glasseter,Martin')",1
+977,"('Dumpelmann,Matthias', 'Martins,Isabel P.')",1
+978,"('Dumpelmann,Matthias', 'Nurse,Ewan S.')",1
+979,"('Dumpelmann,Matthias', 'Richardson,Mark P.')",1
+980,"('Dumpelmann,Matthias', 'Schulze-Bonhage,Andreas')",1
+981,"('Dumpelmann,Matthias', 'Viana,Pedro F.')",1
+982,"('Dunn-Henriksen,Jonas', 'Freestone,Dean R.')",1
+983,"('Dunn-Henriksen,Jonas', 'Glasseter,Martin')",1
+984,"('Dunn-Henriksen,Jonas', 'Martins,Isabel P.')",1
+985,"('Dunn-Henriksen,Jonas', 'Nurse,Ewan S.')",1
+986,"('Dunn-Henriksen,Jonas', 'Richardson,Mark P.')",1
+987,"('Dunn-Henriksen,Jonas', 'Schulze-Bonhage,Andreas')",1
+988,"('Dunn-Henriksen,Jonas', 'Viana,Pedro F.')",1
+989,"('Freestone,Dean R.', 'Glasseter,Martin')",1
+990,"('Freestone,Dean R.', 'Martins,Isabel P.')",1
+991,"('Glasseter,Martin', 'Martins,Isabel P.')",1
+992,"('Glasseter,Martin', 'Nurse,Ewan S.')",1
+993,"('Glasseter,Martin', 'Richardson,Mark P.')",1
+994,"('Glasseter,Martin', 'Schulze-Bonhage,Andreas')",1
+995,"('Glasseter,Martin', 'Viana,Pedro F.')",1
+996,"('Martins,Isabel P.', 'Nurse,Ewan S.')",1
+997,"('Martins,Isabel P.', 'Richardson,Mark P.')",1
+998,"('Martins,Isabel P.', 'Schulze-Bonhage,Andreas')",1
+999,"('Martins,Isabel P.', 'Viana,Pedro F.')",1
