@@ -41,7 +41,7 @@ Again, since the color of the nodes corresponds to the affiliation of the author
 
 Other relevant entities include Mayo Clinic and University of Freiburg.
 
-#### Q3. A look int collaborations
+#### Q3. A look into collaborations
 
 Interestingly, we can immediately identify a large conglomerate of nodes pertaining to authors from the University of Melbourne, Mayo Clinic, SeizureTracker, Epilepsy Foundation (with Sonya Dumanis, PhD, in particular), and King's College London.
 
