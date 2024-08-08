@@ -14,7 +14,7 @@ Network plots (aka network graphs) provide a visualization of relationships or c
 In this case, I used network plots to understand who were the main players in the research field of seizure forecast. The main objectives were to answer the following questions:
 
 **Q1:** Who are the most "prolific" authors in the field of seizure forecast?  
-**Q2:** Are there specific research entities that have particularly large contributions to the field?
+**Q2:** Are there specific research entities that have particularly large contributions to the field?  
 **Q3:** How do authors / research entities collaborate?
 
 ## Exploring data
