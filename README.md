@@ -9,7 +9,7 @@ Network plots (aka network graphs) provide a visualization of relationships or c
 - Identification of the players within a field, and how they are positioned in comparison to the others
 - Visualization of the individual relationships between the players and the magnitude of that relationship
 
-## What we are trying to understand?
+## What are we trying to understand?
 
 In this case, I used network plots to understand who were the main players in the research field of seizure forecast. The main objectives were to answer the following questions:
 
